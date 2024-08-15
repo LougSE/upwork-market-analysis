@@ -1,0 +1,1 @@
+This folder contain prepared data we upload into the database / PowerBI and specify the date we did 

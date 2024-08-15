@@ -1,0 +1,8 @@
+# ignore all .xml files
+*.xml
+
+# ignore all bat files
+*.bat
+
+# Ignore First save script
+save_rss_feed.py

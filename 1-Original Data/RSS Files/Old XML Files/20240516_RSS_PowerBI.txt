@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title><![CDATA[All jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/jobs/rss?api_params=1&amp;orgUid=1729067928257851393&amp;paging=0-10&amp;q=Power%20Bi&amp;securityToken=d17308910f66b74d222ca66c907efa56c942739d41db7bba3da3ca225a9584b2edcab156ed12fcd81a0f94e952ea29d611248991196927c716632e2284293c57&amp;sort=recency&amp;userUid=1729067928257851392]]></link><description><![CDATA[All jobs as of May 16, 2024 09:31 UTC]]></description><language>en-us</language><pubDate>Thu, 16 May 2024 09:31:18 +0000</pubDate><copyright>Â© 2003-2024 Upwork Corporation</copyright><docs>http://blogs.law.harvard.edu/tech/rss</docs><generator>Upwork Corporation</generator><managingEditor>rss@upwork.com (Upwork Corporation)</managingEditor><image><url>https://www.upwork.com/images/rss_logo.png</url><title><![CDATA[All jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/jobs/rss?api_params=1&amp;orgUid=1729067928257851393&amp;paging=0-10&amp;q=Power%20Bi&amp;securityToken=d17308910f66b74d222ca66c907efa56c942739d41db7bba3da3ca225a9584b2edcab156ed12fcd81a0f94e952ea29d611248991196927c716632e2284293c57&amp;sort=recency&amp;userUid=1729067928257851392]]></link></image><item><title><![CDATA[Professional KPI dashboards required for industry clients - Upwork]]></title><link>https://www.upwork.com/jobs/Professional-KPI-dashboards-required-for-industry-clients_%7E0124fb6570ddc410ea?source=rss</link><description><![CDATA[We are looking for a professional with experience in data visualization and dashboard creation to create two KPI dashboards for industry clients - two dashboards with the same KPIs and data visualization and slightly different branding and data inputs.<br /><br />
+The data has already been collected, cleaned and organized according to client expectations in five strategic sections (each a new report page/slide).&nbsp;&nbsp;We require a specialist in data visualisation to effectively design and construct two dashboards, using the same strcuture with slightly different branding each.&nbsp;&nbsp;These need to reflect our brand and encapsulate an aesthetic similar to a polished PowerPoint presentation used at top management consulting levels.<br /><br />
+Required skills: Mastery of PowerBI and PowerPoint.&nbsp;&nbsp;The ability to create seamless, professional, visually appealing aesthetics in PowerBI are essential.<br /><br />
+The dashboards need to be interactive, and be able to be shared with interactive capabilities with clients that may not have access to PowerBI premium.<br /><br />
+Task Details and Expected Output:<br />
+1.&nbsp;&nbsp;Effective data visualisation with given KPIs, strategic themes and data<br />
+2.&nbsp;&nbsp;Expert in PowerBI and/or PowerBI into PowerPoint<br />
+3.&nbsp;&nbsp;Quality design using given colour schemes and themes, to embody a professional and sophisticated look reminiscent of high-quality PowerPoint presentations, while being interactive and dynamic<br />
+4.&nbsp;&nbsp;Create a skeleton framework with the dashboard replicable for two clients, and which can be updated each year with new data<br />
+5.&nbsp;&nbsp;Duplicate the skeleton dashboard to provide a professional, visually appealing dashboard for two industry clients (same KPIs, slightly different data, colour scheme and branding)<br /><br />
+Timeline:&nbsp;&nbsp;The project start date is scheduled for the 23/05/2024. <br />
+ We anticipate this task within 10 days from the start date, with two progress milestones - one halfway, and one 1/2 days before completing the task.<br /><br />
+The chosen candidate must be open to one review prior to commencement to ensure alignment, and one prior to completion with suggested revisions and input given to achieve the desired final product.<br /><br />
+Data Management and Privacy: Prior to initiating any project tasks, you will be required to sign a confidentiality agreement with our company.<br /><br /><br /><br /><b>Budget</b>: $300
+<br /><b>Posted On</b>: May 16, 2024 09:28 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Dashboard,     Data Visualization,     Microsoft Power BI,     Microsoft Excel,     Data Analysis    
+<br /><b>Skills</b>:        Dashboard,                     Data Visualization,                     Microsoft Power BI,                     Microsoft Excel,                     Data Analysis            <br /><b>Country</b>: South Africa
+<br /><a href="https://www.upwork.com/jobs/Professional-KPI-dashboards-required-for-industry-clients_%7E0124fb6570ddc410ea?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a professional with experience in data visualization and dashboard creation to create two KPI dashboards for industry clients - two dashboards with the same KPIs and data visualization and slightly different branding and data inputs.<br /><br />
+The data has already been collected, cleaned and organized according to client expectations in five strategic sections (each a new report page/slide).&nbsp;&nbsp;We require a specialist in data visualisation to effectively design and construct two dashboards, using the same strcuture with slightly different branding each.&nbsp;&nbsp;These need to reflect our brand and encapsulate an aesthetic similar to a polished PowerPoint presentation used at top management consulting levels.<br /><br />
+Required skills: Mastery of PowerBI and PowerPoint.&nbsp;&nbsp;The ability to create seamless, professional, visually appealing aesthetics in PowerBI are essential.<br /><br />
+The dashboards need to be interactive, and be able to be shared with interactive capabilities with clients that may not have access to PowerBI premium.<br /><br />
+Task Details and Expected Output:<br />
+1.&nbsp;&nbsp;Effective data visualisation with given KPIs, strategic themes and data<br />
+2.&nbsp;&nbsp;Expert in PowerBI and/or PowerBI into PowerPoint<br />
+3.&nbsp;&nbsp;Quality design using given colour schemes and themes, to embody a professional and sophisticated look reminiscent of high-quality PowerPoint presentations, while being interactive and dynamic<br />
+4.&nbsp;&nbsp;Create a skeleton framework with the dashboard replicable for two clients, and which can be updated each year with new data<br />
+5.&nbsp;&nbsp;Duplicate the skeleton dashboard to provide a professional, visually appealing dashboard for two industry clients (same KPIs, slightly different data, colour scheme and branding)<br /><br />
+Timeline:&nbsp;&nbsp;The project start date is scheduled for the 23/05/2024. <br />
+ We anticipate this task within 10 days from the start date, with two progress milestones - one halfway, and one 1/2 days before completing the task.<br /><br />
+The chosen candidate must be open to one review prior to commencement to ensure alignment, and one prior to completion with suggested revisions and input given to achieve the desired final product.<br /><br />
+Data Management and Privacy: Prior to initiating any project tasks, you will be required to sign a confidentiality agreement with our company.<br /><br /><br /><br /><b>Budget</b>: $300
+<br /><b>Posted On</b>: May 16, 2024 09:28 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Dashboard,     Data Visualization,     Microsoft Power BI,     Microsoft Excel,     Data Analysis    
+<br /><b>Skills</b>:        Dashboard,                     Data Visualization,                     Microsoft Power BI,                     Microsoft Excel,                     Data Analysis            <br /><b>Country</b>: South Africa
+<br /><a href="https://www.upwork.com/jobs/Professional-KPI-dashboards-required-for-industry-clients_%7E0124fb6570ddc410ea?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 09:28:40 +0000</pubDate><guid>https://www.upwork.com/jobs/Professional-KPI-dashboards-required-for-industry-clients_%7E0124fb6570ddc410ea?source=rss</guid></item><item><title><![CDATA[Experienced Snowflake Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Experienced-Snowflake-Developer_%7E01ba3a195f6a66aa81?source=rss</link><description><![CDATA[We are seeking an experienced Snowflake Developer to assist with the creation and optimization of tables, views, and procedures for a comprehensive data project involving school data. This project focuses on structuring data related to teachers, schools, and students within the Snowflake data warehouse environment.<br /><br />
+Responsibilities:<br /><br />
+Design and develop tables, views, and stored procedures in Snowflake to organize and manage data efficiently.<br />
+Collaborate with the data analytics team to understand data requirements and translate them into technical specifications.<br />
+Optimize data models and query performance for large datasets.<br />
+Ensure data integrity and consistency across all data layers.<br />
+Document development processes, data models, and any technical decisions.<br /><br />
+Requirements:<br /><br />
+Proven experience with Snowflake development, including the creation of tables, views, and stored procedures.<br />
+Strong SQL skills and experience with data modeling.<br />
+Familiarity with educational data, particularly data related to teachers, schools, and students, is a plus.<br />
+Excellent problem-solving skills and attention to detail.<br />
+Ability to work independently and communicate effectively with team members.<br />
+Preferred Qualifications:<br />
+Previous experience with educational data systems.<br />
+Knowledge of ETL processes and tools.<br />
+Experience with data visualization tools such as Tableau or Power BI.<br /><br /><b>Hourly Range</b>: $10.00-$15.00
+
+<br /><b>Posted On</b>: May 16, 2024 08:20 UTC<br /><b>Category</b>: Data Engineering<br /><b>Skills</b>:Snowflake,     Data Engineering,     SQL,     Data Modeling    
+<br /><b>Skills</b>:        Snowflake,                     Data Engineering,                     SQL,                     Data Modeling            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Experienced-Snowflake-Developer_%7E01ba3a195f6a66aa81?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking an experienced Snowflake Developer to assist with the creation and optimization of tables, views, and procedures for a comprehensive data project involving school data. This project focuses on structuring data related to teachers, schools, and students within the Snowflake data warehouse environment.<br /><br />
+Responsibilities:<br /><br />
+Design and develop tables, views, and stored procedures in Snowflake to organize and manage data efficiently.<br />
+Collaborate with the data analytics team to understand data requirements and translate them into technical specifications.<br />
+Optimize data models and query performance for large datasets.<br />
+Ensure data integrity and consistency across all data layers.<br />
+Document development processes, data models, and any technical decisions.<br /><br />
+Requirements:<br /><br />
+Proven experience with Snowflake development, including the creation of tables, views, and stored procedures.<br />
+Strong SQL skills and experience with data modeling.<br />
+Familiarity with educational data, particularly data related to teachers, schools, and students, is a plus.<br />
+Excellent problem-solving skills and attention to detail.<br />
+Ability to work independently and communicate effectively with team members.<br />
+Preferred Qualifications:<br />
+Previous experience with educational data systems.<br />
+Knowledge of ETL processes and tools.<br />
+Experience with data visualization tools such as Tableau or Power BI.<br /><br /><b>Hourly Range</b>: $10.00-$15.00
+
+<br /><b>Posted On</b>: May 16, 2024 08:20 UTC<br /><b>Category</b>: Data Engineering<br /><b>Skills</b>:Snowflake,     Data Engineering,     SQL,     Data Modeling    
+<br /><b>Skills</b>:        Snowflake,                     Data Engineering,                     SQL,                     Data Modeling            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Experienced-Snowflake-Developer_%7E01ba3a195f6a66aa81?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 08:20:03 +0000</pubDate><guid>https://www.upwork.com/jobs/Experienced-Snowflake-Developer_%7E01ba3a195f6a66aa81?source=rss</guid></item><item><title><![CDATA[Power BI Expert for Visual Insight - Upwork]]></title><link>https://www.upwork.com/jobs/Power-Expert-for-Visual-Insight_%7E01af1e05a1c7ac4924?source=rss</link><description><![CDATA[I need a power BI expert who can drill through my existing visuals to bring out more insights and recommendations.<br /><br />
+I will send the Flat file( data) and goal of the business when the proposal in considered. <br /><br /><b>Budget</b>: $10
+<br /><b>Posted On</b>: May 16, 2024 08:46 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Visualization,     Data Analysis    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Visualization,                     Data Analysis            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Power-Expert-for-Visual-Insight_%7E01af1e05a1c7ac4924?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I need a power BI expert who can drill through my existing visuals to bring out more insights and recommendations.<br /><br />
+I will send the Flat file( data) and goal of the business when the proposal in considered. <br /><br /><b>Budget</b>: $10
+<br /><b>Posted On</b>: May 16, 2024 08:46 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Visualization,     Data Analysis    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Visualization,                     Data Analysis            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Power-Expert-for-Visual-Insight_%7E01af1e05a1c7ac4924?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 08:46:08 +0000</pubDate><guid>https://www.upwork.com/jobs/Power-Expert-for-Visual-Insight_%7E01af1e05a1c7ac4924?source=rss</guid></item><item><title><![CDATA[Senior BI Analyst with Google Looker Studio or Power BI Experience Needed - Upwork]]></title><link>https://www.upwork.com/jobs/Senior-Analyst-with-Google-Looker-Studio-Power-Experience-Needed_%7E01bb45e5f17248da48?source=rss</link><description><![CDATA[We are seeking a Senior Analyst with expertise in Google Looker Studio or Power BI to join our team for a one time project and it might turn to a long term opportunity later on. The ideal candidate will be proficient in analyzing and interpreting data from our comprehensive sales funnel documented in our spreadsheet database. This includes tracking various data points such as lead type, location, status, sales agent, and more. Your role will involve extracting valuable insights and identifying trends to optimize our sales processes through creating a comprehensive dashboard that updates itself automatically. Further details will be discussed during the hiring process. If you have a strong analytical background and experience with data visualization tools, we want to hear from you!<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 16, 2024 06:53 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Data Visualization,     Dashboard,     Looker,     Google Sheets,     Data Analysis,     Microsoft Power BI,     Looker Studio,     Business Intelligence    
+<br /><b>Skills</b>:        Data Visualization,                     Dashboard,                     Looker,                     Google Sheets,                     Data Analysis,                     Microsoft Power BI,                     Looker Studio,                     Business Intelligence            <br /><b>Country</b>: Egypt
+<br /><a href="https://www.upwork.com/jobs/Senior-Analyst-with-Google-Looker-Studio-Power-Experience-Needed_%7E01bb45e5f17248da48?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking a Senior Analyst with expertise in Google Looker Studio or Power BI to join our team for a one time project and it might turn to a long term opportunity later on. The ideal candidate will be proficient in analyzing and interpreting data from our comprehensive sales funnel documented in our spreadsheet database. This includes tracking various data points such as lead type, location, status, sales agent, and more. Your role will involve extracting valuable insights and identifying trends to optimize our sales processes through creating a comprehensive dashboard that updates itself automatically. Further details will be discussed during the hiring process. If you have a strong analytical background and experience with data visualization tools, we want to hear from you!<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 16, 2024 06:53 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Data Visualization,     Dashboard,     Looker,     Google Sheets,     Data Analysis,     Microsoft Power BI,     Looker Studio,     Business Intelligence    
+<br /><b>Skills</b>:        Data Visualization,                     Dashboard,                     Looker,                     Google Sheets,                     Data Analysis,                     Microsoft Power BI,                     Looker Studio,                     Business Intelligence            <br /><b>Country</b>: Egypt
+<br /><a href="https://www.upwork.com/jobs/Senior-Analyst-with-Google-Looker-Studio-Power-Experience-Needed_%7E01bb45e5f17248da48?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 06:53:31 +0000</pubDate><guid>https://www.upwork.com/jobs/Senior-Analyst-with-Google-Looker-Studio-Power-Experience-Needed_%7E01bb45e5f17248da48?source=rss</guid></item><item><title><![CDATA[Need a person who can work 0365 &amp; gsuit calander - Upwork]]></title><link>https://www.upwork.com/jobs/Need-person-who-can-work-0365-amp-gsuit-calander_%7E017d3b5eff3a9d743e?source=rss</link><description><![CDATA[hi we are looking for a person who can help us to setup calendar Interop between O365 &amp;amp; Google Workspace.<br /><br /><br /><b>Posted On</b>: May 16, 2024 05:26 UTC<br /><b>Category</b>: Digital Project Management<br /><b>Skills</b>:Office 365,     Microsoft SharePoint,     Microsoft SharePoint Development,     Microsoft PowerApps,     Microsoft Power Automate,     Microsoft Power BI,     Microsoft SharePoint Administration    
+<br /><b>Skills</b>:        Office 365,                     Microsoft SharePoint,                     Microsoft SharePoint Development,                     Microsoft PowerApps,                     Microsoft Power Automate,                     Microsoft Power BI,                     Microsoft SharePoint Administration            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Need-person-who-can-work-0365-amp-gsuit-calander_%7E017d3b5eff3a9d743e?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[hi we are looking for a person who can help us to setup calendar Interop between O365 &amp;amp; Google Workspace.<br /><br /><br /><b>Posted On</b>: May 16, 2024 05:26 UTC<br /><b>Category</b>: Digital Project Management<br /><b>Skills</b>:Office 365,     Microsoft SharePoint,     Microsoft SharePoint Development,     Microsoft PowerApps,     Microsoft Power Automate,     Microsoft Power BI,     Microsoft SharePoint Administration    
+<br /><b>Skills</b>:        Office 365,                     Microsoft SharePoint,                     Microsoft SharePoint Development,                     Microsoft PowerApps,                     Microsoft Power Automate,                     Microsoft Power BI,                     Microsoft SharePoint Administration            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Need-person-who-can-work-0365-amp-gsuit-calander_%7E017d3b5eff3a9d743e?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 05:26:40 +0000</pubDate><guid>https://www.upwork.com/jobs/Need-person-who-can-work-0365-amp-gsuit-calander_%7E017d3b5eff3a9d743e?source=rss</guid></item><item><title><![CDATA[Contractor for Intelligence Report - Upwork]]></title><link>https://www.upwork.com/jobs/Contractor-for-Intelligence-Report_%7E0103494a1db87646cd?source=rss</link><description><![CDATA[Lead Generation and Intelligence For Mantel.&nbsp;&nbsp;We need data on influencers, collectable shops, shows and journalists<br /><br /><b>Hourly Range</b>: $5.00
+
+<br /><b>Posted On</b>: May 16, 2024 04:51 UTC<br /><b>Category</b>: Lead Generation<br /><b>Skills</b>:Data Entry,     Lead Generation,     Online Research,     Data Mining,     Database Management,     Data Collection,     Contact List,     Data Scraping,     Prospect Research,     LinkedIn Lead Generation,     Prospect List,     Email List,     Boolean Search,     Cold Email    
+<br /><b>Skills</b>:        Data Entry,                     Lead Generation,                     Online Research,                     Data Mining,                     Database Management,                     Data Collection,                     Contact List,                     Data Scraping,                     Prospect Research,                     LinkedIn Lead Generation,                     Prospect List,                     Email List,                     Boolean Search,                     Cold Email            <br /><b>Country</b>: Canada
+<br /><a href="https://www.upwork.com/jobs/Contractor-for-Intelligence-Report_%7E0103494a1db87646cd?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Lead Generation and Intelligence For Mantel.&nbsp;&nbsp;We need data on influencers, collectable shops, shows and journalists<br /><br /><b>Hourly Range</b>: $5.00
+
+<br /><b>Posted On</b>: May 16, 2024 04:51 UTC<br /><b>Category</b>: Lead Generation<br /><b>Skills</b>:Data Entry,     Lead Generation,     Online Research,     Data Mining,     Database Management,     Data Collection,     Contact List,     Data Scraping,     Prospect Research,     LinkedIn Lead Generation,     Prospect List,     Email List,     Boolean Search,     Cold Email    
+<br /><b>Skills</b>:        Data Entry,                     Lead Generation,                     Online Research,                     Data Mining,                     Database Management,                     Data Collection,                     Contact List,                     Data Scraping,                     Prospect Research,                     LinkedIn Lead Generation,                     Prospect List,                     Email List,                     Boolean Search,                     Cold Email            <br /><b>Country</b>: Canada
+<br /><a href="https://www.upwork.com/jobs/Contractor-for-Intelligence-Report_%7E0103494a1db87646cd?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 04:51:39 +0000</pubDate><guid>https://www.upwork.com/jobs/Contractor-for-Intelligence-Report_%7E0103494a1db87646cd?source=rss</guid></item><item><title><![CDATA[QuickSight Report Developer - Upwork]]></title><link>https://www.upwork.com/jobs/QuickSight-Report-Developer_%7E01ac73ec4b1805a1bc?source=rss</link><description><![CDATA[Overview:<br />
+We are seeking a talented and self-motivated QuickSight Report Developer to join our team. The ideal candidate will be responsible for creating insightful and visually appealing reports using AWS QuickSight. Strong SQL skills are highly desirable, and the ability to work independently is essential. Experience with API prompts in QuickSight is a plus.<br /><br />
+Responsibilities:<br /><br />
+Develop and maintain reports and dashboards in AWS QuickSight to provide actionable insights.<br />
+Collaborate with stakeholders to understand reporting requirements and translate them into technical specifications.<br />
+Write and optimize SQL queries to retrieve and manipulate data from various sources.<br />
+Ensure data accuracy and consistency in reports.<br />
+Work independently to manage and prioritize tasks effectively.<br />
+Utilize QuickSight API prompts to enhance report functionality and automation, if needed.<br />
+Troubleshoot and resolve issues related to report performance and data integrity.<br />
+Stay updated with the latest features and best practices in AWS QuickSight and data visualization.<br />
+Qualifications:<br /><br />
+Proven experience in creating reports and dashboards using AWS QuickSight.<br />
+Proficient in writing and optimizing SQL queries.<br />
+Strong analytical and problem-solving skills.<br />
+Ability to work independently and manage multiple tasks simultaneously.<br />
+Experience with API prompts in QuickSight is a plus.<br />
+Excellent communication skills to interact with stakeholders and understand their requirements.<br />
+Attention to detail and commitment to delivering high-quality work.<br />
+Bachelor&#039;s degree in Computer Science, Information Systems, or a related field is preferred.<br />
+Preferred Skills:<br /><br />
+Familiarity with AWS ecosystem and services.<br />
+Knowledge of data warehousing concepts.<br />
+Experience with other data visualization tools (e.g., Tableau, Power BI) is a plus.<br />
+Understanding of data security and privacy best practices. <br /><br /><b>Hourly Range</b>: $20.00-$25.00
+
+<br /><b>Posted On</b>: May 16, 2024 02:50 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Data Visualization,     Data Analysis,     SQL,     Amazon QuickSight,     Business Intelligence    
+<br /><b>Skills</b>:        Data Visualization,                     Data Analysis,                     SQL,                     Amazon QuickSight,                     Business Intelligence            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/QuickSight-Report-Developer_%7E01ac73ec4b1805a1bc?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Overview:<br />
+We are seeking a talented and self-motivated QuickSight Report Developer to join our team. The ideal candidate will be responsible for creating insightful and visually appealing reports using AWS QuickSight. Strong SQL skills are highly desirable, and the ability to work independently is essential. Experience with API prompts in QuickSight is a plus.<br /><br />
+Responsibilities:<br /><br />
+Develop and maintain reports and dashboards in AWS QuickSight to provide actionable insights.<br />
+Collaborate with stakeholders to understand reporting requirements and translate them into technical specifications.<br />
+Write and optimize SQL queries to retrieve and manipulate data from various sources.<br />
+Ensure data accuracy and consistency in reports.<br />
+Work independently to manage and prioritize tasks effectively.<br />
+Utilize QuickSight API prompts to enhance report functionality and automation, if needed.<br />
+Troubleshoot and resolve issues related to report performance and data integrity.<br />
+Stay updated with the latest features and best practices in AWS QuickSight and data visualization.<br />
+Qualifications:<br /><br />
+Proven experience in creating reports and dashboards using AWS QuickSight.<br />
+Proficient in writing and optimizing SQL queries.<br />
+Strong analytical and problem-solving skills.<br />
+Ability to work independently and manage multiple tasks simultaneously.<br />
+Experience with API prompts in QuickSight is a plus.<br />
+Excellent communication skills to interact with stakeholders and understand their requirements.<br />
+Attention to detail and commitment to delivering high-quality work.<br />
+Bachelor&#039;s degree in Computer Science, Information Systems, or a related field is preferred.<br />
+Preferred Skills:<br /><br />
+Familiarity with AWS ecosystem and services.<br />
+Knowledge of data warehousing concepts.<br />
+Experience with other data visualization tools (e.g., Tableau, Power BI) is a plus.<br />
+Understanding of data security and privacy best practices. <br /><br /><b>Hourly Range</b>: $20.00-$25.00
+
+<br /><b>Posted On</b>: May 16, 2024 02:50 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Data Visualization,     Data Analysis,     SQL,     Amazon QuickSight,     Business Intelligence    
+<br /><b>Skills</b>:        Data Visualization,                     Data Analysis,                     SQL,                     Amazon QuickSight,                     Business Intelligence            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/QuickSight-Report-Developer_%7E01ac73ec4b1805a1bc?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 02:50:07 +0000</pubDate><guid>https://www.upwork.com/jobs/QuickSight-Report-Developer_%7E01ac73ec4b1805a1bc?source=rss</guid></item><item><title><![CDATA[Dynamics 365 &amp; Azure Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Dynamics-365-amp-Azure-Developer_%7E01103e0e71c0327b96?source=rss</link><description><![CDATA[We are a small consulting firm seeking experienced Dynamics 365 and Azure developers to join our team. As part of our project, you will be involved in various tasks related to AI, Data Warehousing, ETL, Power BI, and full-stack development. If you have a strong background in these areas and are passionate about delivering high-quality solutions, we&#039;d love to hear from you.<br /><br />
+Responsibilities:<br />
+- Develop and customize Dynamics 365 and Azure applications<br />
+- Design and implement AI algorithms<br />
+- Build and maintain data warehousing and ETL pipelines<br />
+- Create visually appealing dashboards using Power BI<br /><br />
+Requirements:<br />
+- Proficiency in Dynamics 365 and Azure development<br />
+- Strong understanding of AI concepts and algorithms<br />
+- Experience with data warehousing and ETL processes<br />
+- Knowledge of Power BI and creating interactive dashboards<br /><br />
+This is a small-sized project with a duration of 1 to 3 months. We are looking for an intermediate-level expert to join our team and contribute to the success of our consulting firm.<br /><br /><br /><b>Posted On</b>: May 16, 2024 02:45 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Microsoft Azure,     C#,     Microsoft Dynamics CRM,     Microsoft Dynamics 365    
+<br /><b>Skills</b>:        Microsoft Azure,                     C#,                     Microsoft Dynamics CRM,                     Microsoft Dynamics 365            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Dynamics-365-amp-Azure-Developer_%7E01103e0e71c0327b96?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are a small consulting firm seeking experienced Dynamics 365 and Azure developers to join our team. As part of our project, you will be involved in various tasks related to AI, Data Warehousing, ETL, Power BI, and full-stack development. If you have a strong background in these areas and are passionate about delivering high-quality solutions, we&#039;d love to hear from you.<br /><br />
+Responsibilities:<br />
+- Develop and customize Dynamics 365 and Azure applications<br />
+- Design and implement AI algorithms<br />
+- Build and maintain data warehousing and ETL pipelines<br />
+- Create visually appealing dashboards using Power BI<br /><br />
+Requirements:<br />
+- Proficiency in Dynamics 365 and Azure development<br />
+- Strong understanding of AI concepts and algorithms<br />
+- Experience with data warehousing and ETL processes<br />
+- Knowledge of Power BI and creating interactive dashboards<br /><br />
+This is a small-sized project with a duration of 1 to 3 months. We are looking for an intermediate-level expert to join our team and contribute to the success of our consulting firm.<br /><br /><br /><b>Posted On</b>: May 16, 2024 02:45 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Microsoft Azure,     C#,     Microsoft Dynamics CRM,     Microsoft Dynamics 365    
+<br /><b>Skills</b>:        Microsoft Azure,                     C#,                     Microsoft Dynamics CRM,                     Microsoft Dynamics 365            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Dynamics-365-amp-Azure-Developer_%7E01103e0e71c0327b96?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 02:45:24 +0000</pubDate><guid>https://www.upwork.com/jobs/Dynamics-365-amp-Azure-Developer_%7E01103e0e71c0327b96?source=rss</guid></item><item><title><![CDATA[Data Analyst - Upwork]]></title><link>https://www.upwork.com/jobs/Data-Analyst_%7E019e46944a9aea8430?source=rss</link><description><![CDATA[We are seeking a Data Analyst to join our team. As a Data Analyst, you will be responsible for analyzing and interpreting complex data sets to identify trends, patterns, and insights that will support data-driven decision-making. You will also be responsible for developing data models, creating reports, and presenting findings to stakeholders. The ideal candidate should have strong analytical and problem-solving skills, proficiency in SQL and Excel, and experience in data visualization tools such as Tableau or Power BI.<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 15, 2024 22:13 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Microsoft Excel,     Data Analysis,     Python,     Data Entry,     R    
+<br /><b>Skills</b>:        Microsoft Excel,                     Data Analysis,                     Python,                     Data Entry,                     R            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Data-Analyst_%7E019e46944a9aea8430?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking a Data Analyst to join our team. As a Data Analyst, you will be responsible for analyzing and interpreting complex data sets to identify trends, patterns, and insights that will support data-driven decision-making. You will also be responsible for developing data models, creating reports, and presenting findings to stakeholders. The ideal candidate should have strong analytical and problem-solving skills, proficiency in SQL and Excel, and experience in data visualization tools such as Tableau or Power BI.<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 15, 2024 22:13 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Microsoft Excel,     Data Analysis,     Python,     Data Entry,     R    
+<br /><b>Skills</b>:        Microsoft Excel,                     Data Analysis,                     Python,                     Data Entry,                     R            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Data-Analyst_%7E019e46944a9aea8430?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 22:13:12 +0000</pubDate><guid>https://www.upwork.com/jobs/Data-Analyst_%7E019e46944a9aea8430?source=rss</guid></item><item><title><![CDATA[Dynamics 365 Business Central Financials Implamentation - Upwork]]></title><link>https://www.upwork.com/jobs/Dynamics-365-Business-Central-Financials-Implamentation_%7E017e1c6ea14fb8c1f5?source=rss</link><description><![CDATA[Need someone with experience in Multi-Company, Multi-Currency Business Central setup and configuration. <br /><br /><br /><b>Posted On</b>: May 16, 2024 00:31 UTC<br /><b>Category</b>: Solution Architecture<br /><b>Skills</b>:Microsoft Power Automate,     Microsoft PowerApps,     Enterprise Resource Planning,     Business Analysis,     Microsoft Dynamics 365,     Microsoft Power BI,     System Deployment,     Business Process Modeling,     Microsoft Dynamics GP,     Microsoft Dynamics Development,     Implementation,     Microsoft Dynamics ERP,     Finance &amp; Accounting    
+<br /><b>Skills</b>:        Microsoft Power Automate,                     Microsoft PowerApps,                     Enterprise Resource Planning,                     Business Analysis,                     Microsoft Dynamics 365,                     Microsoft Power BI,                     System Deployment,                     Business Process Modeling,                     Microsoft Dynamics GP,                     Microsoft Dynamics Development,                     Implementation,                     Microsoft Dynamics ERP,                     Finance &amp; Accounting            <br /><b>Country</b>: Netherlands
+<br /><a href="https://www.upwork.com/jobs/Dynamics-365-Business-Central-Financials-Implamentation_%7E017e1c6ea14fb8c1f5?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Need someone with experience in Multi-Company, Multi-Currency Business Central setup and configuration. <br /><br /><br /><b>Posted On</b>: May 16, 2024 00:31 UTC<br /><b>Category</b>: Solution Architecture<br /><b>Skills</b>:Microsoft Power Automate,     Microsoft PowerApps,     Enterprise Resource Planning,     Business Analysis,     Microsoft Dynamics 365,     Microsoft Power BI,     System Deployment,     Business Process Modeling,     Microsoft Dynamics GP,     Microsoft Dynamics Development,     Implementation,     Microsoft Dynamics ERP,     Finance &amp; Accounting    
+<br /><b>Skills</b>:        Microsoft Power Automate,                     Microsoft PowerApps,                     Enterprise Resource Planning,                     Business Analysis,                     Microsoft Dynamics 365,                     Microsoft Power BI,                     System Deployment,                     Business Process Modeling,                     Microsoft Dynamics GP,                     Microsoft Dynamics Development,                     Implementation,                     Microsoft Dynamics ERP,                     Finance &amp; Accounting            <br /><b>Country</b>: Netherlands
+<br /><a href="https://www.upwork.com/jobs/Dynamics-365-Business-Central-Financials-Implamentation_%7E017e1c6ea14fb8c1f5?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Thu, 16 May 2024 00:31:44 +0000</pubDate><guid>https://www.upwork.com/jobs/Dynamics-365-Business-Central-Financials-Implamentation_%7E017e1c6ea14fb8c1f5?source=rss</guid></item><item><title><![CDATA[Calculate some metrics in power system  - Upwork]]></title><link>https://www.upwork.com/jobs/Calculate-some-metrics-power-system_%7E01f57841f966fb0671?source=rss</link><description><![CDATA[I need some help with power system analysis. This involves some metrics and sensitivity analysis <br /><br /><br /><b>Posted On</b>: May 15, 2024 23:23 UTC<br /><b>Category</b>: Electrical Engineering<br /><b>Skills</b>:Data Analysis,     Python,     MATLAB,     Power System    
+<br /><b>Skills</b>:        Data Analysis,                     Python,                     MATLAB,                     Power System            <br /><b>Country</b>: Tanzania
+<br /><a href="https://www.upwork.com/jobs/Calculate-some-metrics-power-system_%7E01f57841f966fb0671?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I need some help with power system analysis. This involves some metrics and sensitivity analysis <br /><br /><br /><b>Posted On</b>: May 15, 2024 23:23 UTC<br /><b>Category</b>: Electrical Engineering<br /><b>Skills</b>:Data Analysis,     Python,     MATLAB,     Power System    
+<br /><b>Skills</b>:        Data Analysis,                     Python,                     MATLAB,                     Power System            <br /><b>Country</b>: Tanzania
+<br /><a href="https://www.upwork.com/jobs/Calculate-some-metrics-power-system_%7E01f57841f966fb0671?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 23:23:22 +0000</pubDate><guid>https://www.upwork.com/jobs/Calculate-some-metrics-power-system_%7E01f57841f966fb0671?source=rss</guid></item><item><title><![CDATA[Data Visualization Specialist Needed For Data Infographics - Upwork]]></title><link>https://www.upwork.com/jobs/Data-Visualization-Specialist-Needed-For-Data-Infographics_%7E014395d8045dcdf4fd?source=rss</link><description><![CDATA[Looking for a data visualization expert for my website - https://datahiiv.com/.<br /><br />
+I&#039;m looking for people to create data infographics on a daily / bi-daily basis. More details can be found here - https://datahiiv.com/creator<br /><br />
+Candidates must have experience creating data infographics and some type of data analysis skills.<br /><br /><br /><b>Posted On</b>: May 15, 2024 21:47 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Data Visualization,     Statistical Infographic,     Graphic Design,     Infographic    
+<br /><b>Skills</b>:        Data Visualization,                     Statistical Infographic,                     Graphic Design,                     Infographic            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Data-Visualization-Specialist-Needed-For-Data-Infographics_%7E014395d8045dcdf4fd?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Looking for a data visualization expert for my website - https://datahiiv.com/.<br /><br />
+I&#039;m looking for people to create data infographics on a daily / bi-daily basis. More details can be found here - https://datahiiv.com/creator<br /><br />
+Candidates must have experience creating data infographics and some type of data analysis skills.<br /><br /><br /><b>Posted On</b>: May 15, 2024 21:47 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Data Visualization,     Statistical Infographic,     Graphic Design,     Infographic    
+<br /><b>Skills</b>:        Data Visualization,                     Statistical Infographic,                     Graphic Design,                     Infographic            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Data-Visualization-Specialist-Needed-For-Data-Infographics_%7E014395d8045dcdf4fd?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 21:47:12 +0000</pubDate><guid>https://www.upwork.com/jobs/Data-Visualization-Specialist-Needed-For-Data-Infographics_%7E014395d8045dcdf4fd?source=rss</guid></item><item><title><![CDATA[Excel Sheet build out and design - Upwork]]></title><link>https://www.upwork.com/jobs/Excel-Sheet-build-out-and-design_%7E0192a4ce08a7342a1f?source=rss</link><description><![CDATA[Hi there, Id like to create a google sheet that I can use to conduct 1 on 1&#039;s that looks super nice and professional. I&#039;d also like the sheet to show data (a graph with trends) based on what they rate themselves out of 10 on four main tenants. faith, family, finances and fitness. <br /><br />
+I&#039;d also like to be able to enter in the total amount of Gross deals sold, net deals sold, doors knocked, conversations had and appointments set and have trends and graphs showing that information to be able to find coorelations with those KPI&#039;s.<br /><br />
+Can we also have them rate how they&#039;re doing in Accountability out of 10, Culture out of 10, Training out of 10, Operations out of 10, Recruiting out of 10 and State out of 10. A graph showing historical trends for this would be awesome too.<br /><br />
+Any other ideas are welcome to help add on or improve this! <br /><br />
+I&#039;ll also attach our branding kit to make this look nice. <br /><br /><br /><b>Posted On</b>: May 15, 2024 20:59 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Microsoft Excel,     Google Sheets,     Data Visualization,     Microsoft Power BI Data Visualization,     Microsoft Power BI,     Excel Formula,     Excel Macros,     Data Analysis,     Data Cleaning,     Statistics,     Dashboard,     VLOOKUP,     Google Docs,     Visual Basic,     Business Analysis    
+<br /><b>Skills</b>:        Microsoft Excel,                     Google Sheets,                     Data Visualization,                     Microsoft Power BI Data Visualization,                     Microsoft Power BI,                     Excel Formula,                     Excel Macros,                     Data Analysis,                     Data Cleaning,                     Statistics,                     Dashboard,                     VLOOKUP,                     Google Docs,                     Visual Basic,                     Business Analysis            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Excel-Sheet-build-out-and-design_%7E0192a4ce08a7342a1f?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi there, Id like to create a google sheet that I can use to conduct 1 on 1&#039;s that looks super nice and professional. I&#039;d also like the sheet to show data (a graph with trends) based on what they rate themselves out of 10 on four main tenants. faith, family, finances and fitness. <br /><br />
+I&#039;d also like to be able to enter in the total amount of Gross deals sold, net deals sold, doors knocked, conversations had and appointments set and have trends and graphs showing that information to be able to find coorelations with those KPI&#039;s.<br /><br />
+Can we also have them rate how they&#039;re doing in Accountability out of 10, Culture out of 10, Training out of 10, Operations out of 10, Recruiting out of 10 and State out of 10. A graph showing historical trends for this would be awesome too.<br /><br />
+Any other ideas are welcome to help add on or improve this! <br /><br />
+I&#039;ll also attach our branding kit to make this look nice. <br /><br /><br /><b>Posted On</b>: May 15, 2024 20:59 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Microsoft Excel,     Google Sheets,     Data Visualization,     Microsoft Power BI Data Visualization,     Microsoft Power BI,     Excel Formula,     Excel Macros,     Data Analysis,     Data Cleaning,     Statistics,     Dashboard,     VLOOKUP,     Google Docs,     Visual Basic,     Business Analysis    
+<br /><b>Skills</b>:        Microsoft Excel,                     Google Sheets,                     Data Visualization,                     Microsoft Power BI Data Visualization,                     Microsoft Power BI,                     Excel Formula,                     Excel Macros,                     Data Analysis,                     Data Cleaning,                     Statistics,                     Dashboard,                     VLOOKUP,                     Google Docs,                     Visual Basic,                     Business Analysis            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Excel-Sheet-build-out-and-design_%7E0192a4ce08a7342a1f?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 20:59:20 +0000</pubDate><guid>https://www.upwork.com/jobs/Excel-Sheet-build-out-and-design_%7E0192a4ce08a7342a1f?source=rss</guid></item><item><title><![CDATA[Data Analytics Specialist - Upwork]]></title><link>https://www.upwork.com/jobs/Data-Analytics-Specialist_%7E017956d5d47426168f?source=rss</link><description><![CDATA[We are seeking an experienced Analytics Specialist to join our software company. In this role, you will play a critical role in collecting, analyzing, and visualizing essential data and Key Performance Indicators (KPIs) to drive data-informed decision-making across the organization.<br /><br />
+The quick look:<br /><br />
+- Part time (15-20 hours/week) role with opportunity to transition to more hours or even full time.<br />
+- Small, growing startup (15 employees)<br />
+- You will be the only analytics / data member on the team<br />
+- Focus on visualization and weekly/monthly reporting<br />
+- Flexible hours and scheduled, must be available at least 2 hours/day within normal EST working hours<br /><br />
+Responsibilities:<br /><br />
+1. **Data Collection:** Design and implement data collection processes to gather relevant data from various sources<br /><br />
+2. **Data Analysis:** Utilize advanced analytical techniques to analyze large datasets and identify trends, patterns, and insights that can inform strategic business decisions.<br /><br />
+3. **KPI Development:** Work closely with stakeholders to define key metrics and KPIs that align with business objectives and measure the success of various initiatives.<br /><br />
+4. **Visualization:** Develop visually compelling dashboards and reports using data visualization tools such as Tableau, Power BI, or Google Data Studio to effectively communicate insights and trends to stakeholders at all levels of the organization.<br /><br />
+5. **Continuous Improvement:** Continuously monitor data quality and accuracy, and proactively identify opportunities to enhance data collection processes and analytical methodologies.<br /><br />
+6. **Cross-Functional Collaboration:** Collaborate with cross-functional teams including product management, marketing, sales, and finance to provide actionable insights and support data-driven decision-making.<br /><br />
+Requirements:<br /><br />
+1. Proven experience in data analytics, including data collection, analysis, and visualization.<br /><br />
+3. Strong analytical and problem-solving skills with the ability to translate complex data into actionable insights.<br /><br />
+4. Experience with data visualization tools such as Tableau, Power BI, or Google Data Studio.<br /><br />
+5. Excellent communication and interpersonal skills with the ability to effectively collaborate with cross-functional teams.<br /><br />
+6. Strong attention to detail and ability to manage multiple priorities in a fast-paced environment.<br /><br />
+Join us and be part of a team that leverages data to drive innovation and deliver exceptional results!<br /><br /><b>Hourly Range</b>: $15.00-$20.00
+
+<br /><b>Posted On</b>: May 15, 2024 19:33 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Dashboard,     Data Analysis,     Analytics,     Data Visualization,     Data Science    
+<br /><b>Skills</b>:        Dashboard,                     Data Analysis,                     Analytics,                     Data Visualization,                     Data Science            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Data-Analytics-Specialist_%7E017956d5d47426168f?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking an experienced Analytics Specialist to join our software company. In this role, you will play a critical role in collecting, analyzing, and visualizing essential data and Key Performance Indicators (KPIs) to drive data-informed decision-making across the organization.<br /><br />
+The quick look:<br /><br />
+- Part time (15-20 hours/week) role with opportunity to transition to more hours or even full time.<br />
+- Small, growing startup (15 employees)<br />
+- You will be the only analytics / data member on the team<br />
+- Focus on visualization and weekly/monthly reporting<br />
+- Flexible hours and scheduled, must be available at least 2 hours/day within normal EST working hours<br /><br />
+Responsibilities:<br /><br />
+1. **Data Collection:** Design and implement data collection processes to gather relevant data from various sources<br /><br />
+2. **Data Analysis:** Utilize advanced analytical techniques to analyze large datasets and identify trends, patterns, and insights that can inform strategic business decisions.<br /><br />
+3. **KPI Development:** Work closely with stakeholders to define key metrics and KPIs that align with business objectives and measure the success of various initiatives.<br /><br />
+4. **Visualization:** Develop visually compelling dashboards and reports using data visualization tools such as Tableau, Power BI, or Google Data Studio to effectively communicate insights and trends to stakeholders at all levels of the organization.<br /><br />
+5. **Continuous Improvement:** Continuously monitor data quality and accuracy, and proactively identify opportunities to enhance data collection processes and analytical methodologies.<br /><br />
+6. **Cross-Functional Collaboration:** Collaborate with cross-functional teams including product management, marketing, sales, and finance to provide actionable insights and support data-driven decision-making.<br /><br />
+Requirements:<br /><br />
+1. Proven experience in data analytics, including data collection, analysis, and visualization.<br /><br />
+3. Strong analytical and problem-solving skills with the ability to translate complex data into actionable insights.<br /><br />
+4. Experience with data visualization tools such as Tableau, Power BI, or Google Data Studio.<br /><br />
+5. Excellent communication and interpersonal skills with the ability to effectively collaborate with cross-functional teams.<br /><br />
+6. Strong attention to detail and ability to manage multiple priorities in a fast-paced environment.<br /><br />
+Join us and be part of a team that leverages data to drive innovation and deliver exceptional results!<br /><br /><b>Hourly Range</b>: $15.00-$20.00
+
+<br /><b>Posted On</b>: May 15, 2024 19:33 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Dashboard,     Data Analysis,     Analytics,     Data Visualization,     Data Science    
+<br /><b>Skills</b>:        Dashboard,                     Data Analysis,                     Analytics,                     Data Visualization,                     Data Science            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Data-Analytics-Specialist_%7E017956d5d47426168f?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 19:33:41 +0000</pubDate><guid>https://www.upwork.com/jobs/Data-Analytics-Specialist_%7E017956d5d47426168f?source=rss</guid></item><item><title><![CDATA[Dynamics 365 Power Platform Developer Associate - Upwork]]></title><link>https://www.upwork.com/jobs/Dynamics-365-Power-Platform-Developer-Associate_%7E01ee4bcbe73dfd6906?source=rss</link><description><![CDATA[Developer Associate who design, develop, secure, and troubleshoot Power Platform solutions.<br /><br />
+They implement components of a solution that include application enhancements, custom user experience, system integrations, data conversions, custom process automation, and custom visualizations. Candidates will gain applied knowledge of Power Platform services, including in-depth understanding of capabilities, boundaries, and constraints. <br /><br />
+Should have development experience that includes JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET, and Power BI.<br /><br />
+Specialized in one or more feature sets of Dynamics 365 Sales, Customer Service and Field Service. Understand the role of Customer Engagement Apps in relationship to the Microsoft 365 and Dynamics 365 suites of applications (In particular Dynamics 365 Business Central)<br /><br /><br /><b>Posted On</b>: May 15, 2024 18:52 UTC<br /><b>Category</b>: Solution Architecture<br /><b>Skills</b>:JavaScript,     Microsoft Azure,     C#,     Microsoft Dynamics 365,     API,     SaaS,     JSON,     TypeScript,     HTML,     .NET Framework,     Microsoft Power BI Development    
+<br /><b>Skills</b>:        JavaScript,                     Microsoft Azure,                     C#,                     Microsoft Dynamics 365,                     API,                     SaaS,                     JSON,                     TypeScript,                     HTML,                     .NET Framework,                     Microsoft Power BI Development            <br /><b>Country</b>: Mexico
+<br /><a href="https://www.upwork.com/jobs/Dynamics-365-Power-Platform-Developer-Associate_%7E01ee4bcbe73dfd6906?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Developer Associate who design, develop, secure, and troubleshoot Power Platform solutions.<br /><br />
+They implement components of a solution that include application enhancements, custom user experience, system integrations, data conversions, custom process automation, and custom visualizations. Candidates will gain applied knowledge of Power Platform services, including in-depth understanding of capabilities, boundaries, and constraints. <br /><br />
+Should have development experience that includes JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET, and Power BI.<br /><br />
+Specialized in one or more feature sets of Dynamics 365 Sales, Customer Service and Field Service. Understand the role of Customer Engagement Apps in relationship to the Microsoft 365 and Dynamics 365 suites of applications (In particular Dynamics 365 Business Central)<br /><br /><br /><b>Posted On</b>: May 15, 2024 18:52 UTC<br /><b>Category</b>: Solution Architecture<br /><b>Skills</b>:JavaScript,     Microsoft Azure,     C#,     Microsoft Dynamics 365,     API,     SaaS,     JSON,     TypeScript,     HTML,     .NET Framework,     Microsoft Power BI Development    
+<br /><b>Skills</b>:        JavaScript,                     Microsoft Azure,                     C#,                     Microsoft Dynamics 365,                     API,                     SaaS,                     JSON,                     TypeScript,                     HTML,                     .NET Framework,                     Microsoft Power BI Development            <br /><b>Country</b>: Mexico
+<br /><a href="https://www.upwork.com/jobs/Dynamics-365-Power-Platform-Developer-Associate_%7E01ee4bcbe73dfd6906?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 18:52:56 +0000</pubDate><guid>https://www.upwork.com/jobs/Dynamics-365-Power-Platform-Developer-Associate_%7E01ee4bcbe73dfd6906?source=rss</guid></item><item><title><![CDATA[Power BI Dashboard build - Upwork]]></title><link>https://www.upwork.com/jobs/Power-Dashboard-build_%7E01481c373f49936da6?source=rss</link><description><![CDATA[We need a dashboard created to report weekly marketing KPI&#039;s. The Dashboard would need to provide numerical and graphic reporting across various time frames (week/month/to date). It would need to connect to at least LinkedIn/Pipedrive and an excel spreadsheet<br /><br /><b>Hourly Range</b>: $30.00-$60.00
+
+<br /><b>Posted On</b>: May 15, 2024 15:33 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Analysis,     Data Visualization,     Business Intelligence,     Microsoft Excel    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Analysis,                     Data Visualization,                     Business Intelligence,                     Microsoft Excel            <br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/Power-Dashboard-build_%7E01481c373f49936da6?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We need a dashboard created to report weekly marketing KPI&#039;s. The Dashboard would need to provide numerical and graphic reporting across various time frames (week/month/to date). It would need to connect to at least LinkedIn/Pipedrive and an excel spreadsheet<br /><br /><b>Hourly Range</b>: $30.00-$60.00
+
+<br /><b>Posted On</b>: May 15, 2024 15:33 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Analysis,     Data Visualization,     Business Intelligence,     Microsoft Excel    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Analysis,                     Data Visualization,                     Business Intelligence,                     Microsoft Excel            <br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/Power-Dashboard-build_%7E01481c373f49936da6?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 15:33:37 +0000</pubDate><guid>https://www.upwork.com/jobs/Power-Dashboard-build_%7E01481c373f49936da6?source=rss</guid></item><item><title><![CDATA[Expert Power Bi Developer for Dashboard (3 pages and single Excel data source) - Upwork]]></title><link>https://www.upwork.com/jobs/Expert-Power-Developer-for-Dashboard-pages-and-single-Excel-data-source_%7E01736256a99c2a4ee1?source=rss</link><description><![CDATA[I am looking for a seasoned expert in PowerBi in order to implement a dashboard and your profile looks very interesting to me. I provide you below with a broad generic description of the project.&nbsp;&nbsp;If interested,&nbsp;&nbsp;please feel free to reach me for more detailed questions.<br /><br />
+Project Overview:<br />
+Develop a dashboard for an internal tool within a diverse organizational context. The dashboard will display monthly performance across several distinct organizational areas. It will provide aggregated visualizations to track performance against fixed set targets using various charts (barplot, donut, timeline), summary tables, maps, and interactive elements such data drills and slicers. The primary audience will be project managers.&nbsp;&nbsp;Visualizations might include aggregated numerical tables, some maps and other easy to interpret visualizations (timelines, barplots and donut charts) with drill menus and a timeline slicer by months (with cumulative figures functionality). The audience is mostly project managers so no need for very complicated visuals. The dashboard will very likely include 3 separate sheets<br /><br />
+Technical Requirements:<br /><br />
+- The data source will be a unique Excel workbook with several sheets for each organizational unit<br />
+- You will not need to deal with the Excel itself, as it is already prepared to collect the data in a clean way using many internal validations and dropdowns to ensure that the data feeded to PowerBi is as clean as possible<br />
+- Initial query connections and data wrangling will be done to provide a combined dataset for easy filtering, as a starting point.<br />
+- The PowerBi .pbix and Excel data source file will be hosted on the same SharePoint folder for seamless connection<br />
+- Each of the organizational units excel sheets have identical column names across areas, with variations in some specific indicator categories depending on the organizational unit.<br />
+- Data will usually be aggregated at subnational level1 and second subnational level2. Entities have standardized names to facilitate PowerBI mapping capabilities. Map visualizations will be either bubble maps or choropleth.<br />
+- Draft wireframes with suggested visuals and tables will be provided to guide the development process<br />
+- Guidance and feedback will be provided through the phases to facilitate the specialist work.<br />
+- More details on the project will be provided to preselected candidates in order to better frame the scope<br /><br />
+I look forward to collaborating with a skilled specialist to create the basis for an effective and user-friendly dashboard within the suggested timeframe and budget.<br /><br /><b>Budget</b>: $2,000
+<br /><b>Posted On</b>: May 15, 2024 16:38 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Dashboard,     Microsoft Power BI,     Data Visualization,     Business Intelligence,     Data Modeling    
+<br /><b>Skills</b>:        Dashboard,                     Microsoft Power BI,                     Data Visualization,                     Business Intelligence,                     Data Modeling            <br /><b>Country</b>: Spain
+<br /><a href="https://www.upwork.com/jobs/Expert-Power-Developer-for-Dashboard-pages-and-single-Excel-data-source_%7E01736256a99c2a4ee1?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I am looking for a seasoned expert in PowerBi in order to implement a dashboard and your profile looks very interesting to me. I provide you below with a broad generic description of the project.&nbsp;&nbsp;If interested,&nbsp;&nbsp;please feel free to reach me for more detailed questions.<br /><br />
+Project Overview:<br />
+Develop a dashboard for an internal tool within a diverse organizational context. The dashboard will display monthly performance across several distinct organizational areas. It will provide aggregated visualizations to track performance against fixed set targets using various charts (barplot, donut, timeline), summary tables, maps, and interactive elements such data drills and slicers. The primary audience will be project managers.&nbsp;&nbsp;Visualizations might include aggregated numerical tables, some maps and other easy to interpret visualizations (timelines, barplots and donut charts) with drill menus and a timeline slicer by months (with cumulative figures functionality). The audience is mostly project managers so no need for very complicated visuals. The dashboard will very likely include 3 separate sheets<br /><br />
+Technical Requirements:<br /><br />
+- The data source will be a unique Excel workbook with several sheets for each organizational unit<br />
+- You will not need to deal with the Excel itself, as it is already prepared to collect the data in a clean way using many internal validations and dropdowns to ensure that the data feeded to PowerBi is as clean as possible<br />
+- Initial query connections and data wrangling will be done to provide a combined dataset for easy filtering, as a starting point.<br />
+- The PowerBi .pbix and Excel data source file will be hosted on the same SharePoint folder for seamless connection<br />
+- Each of the organizational units excel sheets have identical column names across areas, with variations in some specific indicator categories depending on the organizational unit.<br />
+- Data will usually be aggregated at subnational level1 and second subnational level2. Entities have standardized names to facilitate PowerBI mapping capabilities. Map visualizations will be either bubble maps or choropleth.<br />
+- Draft wireframes with suggested visuals and tables will be provided to guide the development process<br />
+- Guidance and feedback will be provided through the phases to facilitate the specialist work.<br />
+- More details on the project will be provided to preselected candidates in order to better frame the scope<br /><br />
+I look forward to collaborating with a skilled specialist to create the basis for an effective and user-friendly dashboard within the suggested timeframe and budget.<br /><br /><b>Budget</b>: $2,000
+<br /><b>Posted On</b>: May 15, 2024 16:38 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Dashboard,     Microsoft Power BI,     Data Visualization,     Business Intelligence,     Data Modeling    
+<br /><b>Skills</b>:        Dashboard,                     Microsoft Power BI,                     Data Visualization,                     Business Intelligence,                     Data Modeling            <br /><b>Country</b>: Spain
+<br /><a href="https://www.upwork.com/jobs/Expert-Power-Developer-for-Dashboard-pages-and-single-Excel-data-source_%7E01736256a99c2a4ee1?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 16:38:07 +0000</pubDate><guid>https://www.upwork.com/jobs/Expert-Power-Developer-for-Dashboard-pages-and-single-Excel-data-source_%7E01736256a99c2a4ee1?source=rss</guid></item><item><title><![CDATA[Tableau expert needed for design implementations - Upwork]]></title><link>https://www.upwork.com/jobs/Tableau-expert-needed-for-design-implementations_%7E015b687bb958fbbaa0?source=rss</link><description><![CDATA[We&#039;re seeking an expert Tableau user to assist us in the creation/execution of creative designs of dashboards to present to our customers.<br /><br />
+We have all the data mapped, we&#039;re just looking for someone to get it looking modern and clean. <br /><br />
+MUST be willing to sign an NDA prior to job start.<br />
+MUST provide examples of dashboards/design work from Tableau specifically.<br /><br /><b>Hourly Range</b>: $30.00-$100.00
+
+<br /><b>Posted On</b>: May 15, 2024 16:25 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Tableau,     Dashboard,     Presentations,     Data Visualization,     Data Analysis    
+<br /><b>Skills</b>:        Tableau,                     Dashboard,                     Presentations,                     Data Visualization,                     Data Analysis            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Tableau-expert-needed-for-design-implementations_%7E015b687bb958fbbaa0?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We&#039;re seeking an expert Tableau user to assist us in the creation/execution of creative designs of dashboards to present to our customers.<br /><br />
+We have all the data mapped, we&#039;re just looking for someone to get it looking modern and clean. <br /><br />
+MUST be willing to sign an NDA prior to job start.<br />
+MUST provide examples of dashboards/design work from Tableau specifically.<br /><br /><b>Hourly Range</b>: $30.00-$100.00
+
+<br /><b>Posted On</b>: May 15, 2024 16:25 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Tableau,     Dashboard,     Presentations,     Data Visualization,     Data Analysis    
+<br /><b>Skills</b>:        Tableau,                     Dashboard,                     Presentations,                     Data Visualization,                     Data Analysis            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Tableau-expert-needed-for-design-implementations_%7E015b687bb958fbbaa0?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 16:25:18 +0000</pubDate><guid>https://www.upwork.com/jobs/Tableau-expert-needed-for-design-implementations_%7E015b687bb958fbbaa0?source=rss</guid></item><item><title><![CDATA[Power BI Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Power-Developer_%7E015b4aa3fff0b0ba6f?source=rss</link><description><![CDATA[We are looking for a PowerBI/ETL Developer who can <br />
+&nbsp;&nbsp;- Write Power BI reports<br />
+&nbsp;&nbsp;- Development of SQL, Stored Procedures, ETL pipelines<br />
+ - Follow directions<br />
+&nbsp;&nbsp;- speak English<br />
+ - Good communication<br />
+ - Comfortable using Microsoft SQL <br /><br />
+We have predefined reports that we want developed or enhanced. <br /><br />
+This is short term project that will lead to longer term project. <br />
+We will also do zoom interview to talk through some questions we have. <br /><br />
+Please share experience by displaying reports and provide a little background on developing those reports. <br />
+&nbsp;&nbsp;<br /><br /><b>Hourly Range</b>: $15.00-$40.00
+
+<br /><b>Posted On</b>: May 15, 2024 16:18 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Microsoft SQL Server,     Data Warehousing &amp; ETL Software,     Microsoft Power BI Data Visualization    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Microsoft SQL Server,                     Data Warehousing &amp; ETL Software,                     Microsoft Power BI Data Visualization            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Power-Developer_%7E015b4aa3fff0b0ba6f?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a PowerBI/ETL Developer who can <br />
+&nbsp;&nbsp;- Write Power BI reports<br />
+&nbsp;&nbsp;- Development of SQL, Stored Procedures, ETL pipelines<br />
+ - Follow directions<br />
+&nbsp;&nbsp;- speak English<br />
+ - Good communication<br />
+ - Comfortable using Microsoft SQL <br /><br />
+We have predefined reports that we want developed or enhanced. <br /><br />
+This is short term project that will lead to longer term project. <br />
+We will also do zoom interview to talk through some questions we have. <br /><br />
+Please share experience by displaying reports and provide a little background on developing those reports. <br />
+&nbsp;&nbsp;<br /><br /><b>Hourly Range</b>: $15.00-$40.00
+
+<br /><b>Posted On</b>: May 15, 2024 16:18 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Microsoft SQL Server,     Data Warehousing &amp; ETL Software,     Microsoft Power BI Data Visualization    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Microsoft SQL Server,                     Data Warehousing &amp; ETL Software,                     Microsoft Power BI Data Visualization            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Power-Developer_%7E015b4aa3fff0b0ba6f?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 16:18:58 +0000</pubDate><guid>https://www.upwork.com/jobs/Power-Developer_%7E015b4aa3fff0b0ba6f?source=rss</guid></item><item><title><![CDATA[Custom d3.js Chart and Data Visualization Specialist - Upwork]]></title><link>https://www.upwork.com/jobs/Custom-Chart-and-Data-Visualization-Specialist_%7E019f48415344d0f053?source=rss</link><description><![CDATA[We are seeking a talented individual who specializes in building custom d3.js charts and data visualization modals. As the Custom d3.js Chart and Data Visualization Specialist, you will be responsible for creating visually stunning and interactive charts and graphs using d3.js library. You should have a strong understanding of data visualization principles and be able to translate complex data into easy-to-understand visual representations. The ideal candidate will have experience in front-end development and be proficient in HTML, CSS, and JavaScript. <br /><br />
+Responsibilities:<br /><br />
+- Develop custom d3.js charts and data visualization modals<br />
+- Collaborate with the design team to create visually appealing charts<br />
+- Optimize charts for performance and responsiveness<br /><br />
+Requirements:<br /><br />
+- Strong proficiency in d3.js and front-end development<br />
+- Expertise in HTML, CSS, and JavaScript<br />
+- Familiarity with data visualization principles<br />
+- Excellent problem-solving and communication skills<br />
+- Attention to detail<br /><br />
+If you are passionate about data visualization and have a keen eye for design, we would love to hear from you!<br /><br /><b>Hourly Range</b>: $10.00-$45.00
+
+<br /><b>Posted On</b>: May 15, 2024 15:27 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:D3.js,     Data Visualization,     JavaScript,     CSS,     Angular    
+<br /><b>Skills</b>:        D3.js,                     Data Visualization,                     JavaScript,                     CSS,                     Angular            <br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/Custom-Chart-and-Data-Visualization-Specialist_%7E019f48415344d0f053?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking a talented individual who specializes in building custom d3.js charts and data visualization modals. As the Custom d3.js Chart and Data Visualization Specialist, you will be responsible for creating visually stunning and interactive charts and graphs using d3.js library. You should have a strong understanding of data visualization principles and be able to translate complex data into easy-to-understand visual representations. The ideal candidate will have experience in front-end development and be proficient in HTML, CSS, and JavaScript. <br /><br />
+Responsibilities:<br /><br />
+- Develop custom d3.js charts and data visualization modals<br />
+- Collaborate with the design team to create visually appealing charts<br />
+- Optimize charts for performance and responsiveness<br /><br />
+Requirements:<br /><br />
+- Strong proficiency in d3.js and front-end development<br />
+- Expertise in HTML, CSS, and JavaScript<br />
+- Familiarity with data visualization principles<br />
+- Excellent problem-solving and communication skills<br />
+- Attention to detail<br /><br />
+If you are passionate about data visualization and have a keen eye for design, we would love to hear from you!<br /><br /><b>Hourly Range</b>: $10.00-$45.00
+
+<br /><b>Posted On</b>: May 15, 2024 15:27 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:D3.js,     Data Visualization,     JavaScript,     CSS,     Angular    
+<br /><b>Skills</b>:        D3.js,                     Data Visualization,                     JavaScript,                     CSS,                     Angular            <br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/Custom-Chart-and-Data-Visualization-Specialist_%7E019f48415344d0f053?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 15:27:36 +0000</pubDate><guid>https://www.upwork.com/jobs/Custom-Chart-and-Data-Visualization-Specialist_%7E019f48415344d0f053?source=rss</guid></item><item><title><![CDATA[Power BI Report Creation from Excel and Fishbowl Inventory Software - Upwork]]></title><link>https://www.upwork.com/jobs/Power-Report-Creation-from-Excel-and-Fishbowl-Inventory-Software_%7E0191363e69288e3539?source=rss</link><description><![CDATA[We are looking for a skilled professional to assist us in creating a Power BI report from an Excel file and reports within Fishbowl Inventory Software. The main objective is to generate a comprehensive and visually appealing report that provides valuable insights into our inventory management and sales data. The ideal candidate must have excellent knowledge and experience in Power BI, Excel, and Fishbowl Inventory Software. Strong analytical skills and attention to detail are crucial for this project. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br /><br />
+Skills required:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Power BI<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Excel<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Fishbowl Inventory Software<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Data analysis<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Visualization<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Attention to detail<br /><br /><b>Hourly Range</b>: $20.00-$45.00
+
+<br /><b>Posted On</b>: May 15, 2024 15:18 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Excel,     Microsoft Power BI,     Data Analysis,     Microsoft Excel PowerPivot    
+<br /><b>Skills</b>:        Microsoft Excel,                     Microsoft Power BI,                     Data Analysis,                     Microsoft Excel PowerPivot            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Power-Report-Creation-from-Excel-and-Fishbowl-Inventory-Software_%7E0191363e69288e3539?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a skilled professional to assist us in creating a Power BI report from an Excel file and reports within Fishbowl Inventory Software. The main objective is to generate a comprehensive and visually appealing report that provides valuable insights into our inventory management and sales data. The ideal candidate must have excellent knowledge and experience in Power BI, Excel, and Fishbowl Inventory Software. Strong analytical skills and attention to detail are crucial for this project. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br /><br />
+Skills required:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Power BI<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Excel<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Fishbowl Inventory Software<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Data analysis<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Visualization<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Attention to detail<br /><br /><b>Hourly Range</b>: $20.00-$45.00
+
+<br /><b>Posted On</b>: May 15, 2024 15:18 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Excel,     Microsoft Power BI,     Data Analysis,     Microsoft Excel PowerPivot    
+<br /><b>Skills</b>:        Microsoft Excel,                     Microsoft Power BI,                     Data Analysis,                     Microsoft Excel PowerPivot            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Power-Report-Creation-from-Excel-and-Fishbowl-Inventory-Software_%7E0191363e69288e3539?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 15:18:08 +0000</pubDate><guid>https://www.upwork.com/jobs/Power-Report-Creation-from-Excel-and-Fishbowl-Inventory-Software_%7E0191363e69288e3539?source=rss</guid></item><item><title><![CDATA[Power BI Dashboard and Reports - Upwork]]></title><link>https://www.upwork.com/jobs/Power-Dashboard-and-Reports_%7E01e3635f96b22cb5da?source=rss</link><description><![CDATA[We are looking for a skilled Power BI expert to create a professional and visually appealing dashboard and reports. The deliverables should be completed by next Friday. The ideal candidate should have a strong understanding of Power BI and be able to transform raw data into insightful and interactive visualizations. . This is a great opportunity to showcase your expertise in Power BI and contribute to our data-driven decision-making process.<br /><br />
+Skills required:<br />
+- Proficient in Power BI<br />
+- Data analysis<br />
+- Data visualization<br />
+- Dashboard design<br />
+- SQL<br />
+- Excel<br /><br />
+Size: Small<br />
+Duration: a day or two<br />
+Expertise: Intermediate<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 15, 2024 14:39 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Visualization,     Data Analysis,     Business Intelligence    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Visualization,                     Data Analysis,                     Business Intelligence            <br /><b>Country</b>: Ireland
+<br /><a href="https://www.upwork.com/jobs/Power-Dashboard-and-Reports_%7E01e3635f96b22cb5da?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a skilled Power BI expert to create a professional and visually appealing dashboard and reports. The deliverables should be completed by next Friday. The ideal candidate should have a strong understanding of Power BI and be able to transform raw data into insightful and interactive visualizations. . This is a great opportunity to showcase your expertise in Power BI and contribute to our data-driven decision-making process.<br /><br />
+Skills required:<br />
+- Proficient in Power BI<br />
+- Data analysis<br />
+- Data visualization<br />
+- Dashboard design<br />
+- SQL<br />
+- Excel<br /><br />
+Size: Small<br />
+Duration: a day or two<br />
+Expertise: Intermediate<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 15, 2024 14:39 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Visualization,     Data Analysis,     Business Intelligence    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Visualization,                     Data Analysis,                     Business Intelligence            <br /><b>Country</b>: Ireland
+<br /><a href="https://www.upwork.com/jobs/Power-Dashboard-and-Reports_%7E01e3635f96b22cb5da?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 14:39:41 +0000</pubDate><guid>https://www.upwork.com/jobs/Power-Dashboard-and-Reports_%7E01e3635f96b22cb5da?source=rss</guid></item><item><title><![CDATA[Microsoft Data Factory Expert - Data Platform Development - Upwork]]></title><link>https://www.upwork.com/jobs/Microsoft-Data-Factory-Expert-Data-Platform-Development_%7E01faaf5d69b40d0647?source=rss</link><description><![CDATA[We are seeking an experienced Microsoft Data Factory expert to build a robust Data platform. The platform should be capable of acquiring batch data flows from various sources, including:<br />
+- 4 Salesforce entities (Account, Site, Field Assets and Item), daily<br />
+- 2 .csv files (electricity bills), monthly<br />
+- 1 .csv file (charging session), weekly<br /><br />
+The Transform layer must do some pre-elaboration on the acquired data. E.g.:<br />
+- it has to extract relevant data from the electricity bills and aggregate them by ID, year and month<br />
+- it has to aggregate the charging session by charging site, year and month<br /><br />
+Data must be saved in Microsoft Azure so that they can be analyzed with Power BI.<br /><br />
+The ideal candidate will have a deep understanding of Microsoft Data Factory and its integration capabilities and will be able to design and implement the necessary pipelines, data transformations, and data processing workflows.<br /><br />
+Skills required:<br />
+- Expertise in Microsoft Data Factory<br />
+- Proficiency in SQL and data manipulation<br />
+- Experience with Salesforce integration<br />
+- Strong knowledge of CSV file processing and data extraction<br /><br />
+This is a medium-sized project with an estimated duration of 1 to 2 months.<br /><br />
+Expertise level: Expert<br /><br /><br /><b>Hourly Range</b>: $10.00-$50.00
+
+<br /><b>Posted On</b>: May 15, 2024 13:57 UTC<br /><b>Category</b>: Data Engineering<br /><b>Skills</b>:ETL Pipeline,     Microsoft Azure,     Microsoft Power BI    
+<br /><b>Skills</b>:        ETL Pipeline,                     Microsoft Azure,                     Microsoft Power BI            <br /><b>Country</b>: Italy
+<br /><a href="https://www.upwork.com/jobs/Microsoft-Data-Factory-Expert-Data-Platform-Development_%7E01faaf5d69b40d0647?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking an experienced Microsoft Data Factory expert to build a robust Data platform. The platform should be capable of acquiring batch data flows from various sources, including:<br />
+- 4 Salesforce entities (Account, Site, Field Assets and Item), daily<br />
+- 2 .csv files (electricity bills), monthly<br />
+- 1 .csv file (charging session), weekly<br /><br />
+The Transform layer must do some pre-elaboration on the acquired data. E.g.:<br />
+- it has to extract relevant data from the electricity bills and aggregate them by ID, year and month<br />
+- it has to aggregate the charging session by charging site, year and month<br /><br />
+Data must be saved in Microsoft Azure so that they can be analyzed with Power BI.<br /><br />
+The ideal candidate will have a deep understanding of Microsoft Data Factory and its integration capabilities and will be able to design and implement the necessary pipelines, data transformations, and data processing workflows.<br /><br />
+Skills required:<br />
+- Expertise in Microsoft Data Factory<br />
+- Proficiency in SQL and data manipulation<br />
+- Experience with Salesforce integration<br />
+- Strong knowledge of CSV file processing and data extraction<br /><br />
+This is a medium-sized project with an estimated duration of 1 to 2 months.<br /><br />
+Expertise level: Expert<br /><br /><br /><b>Hourly Range</b>: $10.00-$50.00
+
+<br /><b>Posted On</b>: May 15, 2024 13:57 UTC<br /><b>Category</b>: Data Engineering<br /><b>Skills</b>:ETL Pipeline,     Microsoft Azure,     Microsoft Power BI    
+<br /><b>Skills</b>:        ETL Pipeline,                     Microsoft Azure,                     Microsoft Power BI            <br /><b>Country</b>: Italy
+<br /><a href="https://www.upwork.com/jobs/Microsoft-Data-Factory-Expert-Data-Platform-Development_%7E01faaf5d69b40d0647?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 13:57:04 +0000</pubDate><guid>https://www.upwork.com/jobs/Microsoft-Data-Factory-Expert-Data-Platform-Development_%7E01faaf5d69b40d0647?source=rss</guid></item><item><title><![CDATA[Need custom visuals built for Power BI - Upwork]]></title><link>https://www.upwork.com/jobs/Need-custom-visuals-built-for-Power_%7E01db346220bdd4020d?source=rss</link><description><![CDATA[I need two custom visuals built for my Power BI Reports. The requirement documents are attached.<br /><br />
+We are using embedded for customer setup to show dashboards to our clients and these visuals will help enhance the experience<br /><br /><b>Hourly Range</b>: $30.00-$60.00
+
+<br /><b>Posted On</b>: May 15, 2024 12:50 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI    
+<br /><b>Skills</b>:        Microsoft Power BI            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Need-custom-visuals-built-for-Power_%7E01db346220bdd4020d?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I need two custom visuals built for my Power BI Reports. The requirement documents are attached.<br /><br />
+We are using embedded for customer setup to show dashboards to our clients and these visuals will help enhance the experience<br /><br /><b>Hourly Range</b>: $30.00-$60.00
+
+<br /><b>Posted On</b>: May 15, 2024 12:50 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI    
+<br /><b>Skills</b>:        Microsoft Power BI            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Need-custom-visuals-built-for-Power_%7E01db346220bdd4020d?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 12:50:19 +0000</pubDate><guid>https://www.upwork.com/jobs/Need-custom-visuals-built-for-Power_%7E01db346220bdd4020d?source=rss</guid></item><item><title><![CDATA[BI development, data warehousing &amp; Oracle analytics - Upwork]]></title><link>https://www.upwork.com/jobs/development-data-warehousing-amp-Oracle-analytics_%7E018813267ca33e8560?source=rss</link><description><![CDATA[Hi<br />
+Please apply if you match the following job requirements and if you are available immediately- <br /><br />
+Mandatory Skills:<br /><br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor&rsquo;s degree in Computer Science, Information Systems, or a related field.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5+ years of experience in BI development, data warehousing, ETL, SSIS, Oracle and analytics<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficiency in SQL programming and database technologies such as SQL Server, Oracle, or MySQL.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hands-on experience with ETL tools and processes, such as SSIS, Informatica, or Talend.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise in data modeling techniques and dimensional modeling principles.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong analytical and problem-solving skills, with the ability to translate complex business requirements into technical solutions.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with one or more BI visualization tools such as Power BI, Tableau, or QlikView.<br /><br />
+Responsibilities:<br /><br />
+BI Solution Development: Design, develop, and implement scalable BI solutions to extract, transform, and load data from various sources into data warehouses or data marts.<br />
+Data Modeling: Develop and maintain logical and physical data models to support business requirements and optimize query performance.<br />
+ETL Processes: Design, develop, and optimize Extract, Transform, Load (ETL) processes to ensure data integrity, accuracy, and timeliness.<br />
+Data Visualization: Create interactive and intuitive dashboards, reports, and data visualizations using BI tools such as Power BI, Tableau, or QlikView.<br /><br /><br /><br />
+Preferred Qualifications:<br /><br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master&rsquo;s degree in Computer Science, Information Systems, or a related field.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certifications in BI technologies (e.g., Microsoft Certified: Data Analyst Associate, Tableau Desktop Certified Associate).<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with cloud-based BI platforms such as Azure BI, AWS Redshift, or Google Big Query.<br /><br /><br />
+Contract Duration: 6 to 12 months.<br /><br />
+Immediate &amp;amp; early joiners are only preferred who can start from next week onwards.<br /><br /><b>Budget</b>: $1,000
+<br /><b>Posted On</b>: May 15, 2024 12:42 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Business Intelligence,     ETL,     Oracle PLSQL,     Data Warehousing,     Microsoft Power BI,     Tableau,     Data Modeling    
+<br /><b>Skills</b>:        Business Intelligence,                     ETL,                     Oracle PLSQL,                     Data Warehousing,                     Microsoft Power BI,                     Tableau,                     Data Modeling            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/development-data-warehousing-amp-Oracle-analytics_%7E018813267ca33e8560?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi<br />
+Please apply if you match the following job requirements and if you are available immediately- <br /><br />
+Mandatory Skills:<br /><br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor&rsquo;s degree in Computer Science, Information Systems, or a related field.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5+ years of experience in BI development, data warehousing, ETL, SSIS, Oracle and analytics<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficiency in SQL programming and database technologies such as SQL Server, Oracle, or MySQL.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hands-on experience with ETL tools and processes, such as SSIS, Informatica, or Talend.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise in data modeling techniques and dimensional modeling principles.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong analytical and problem-solving skills, with the ability to translate complex business requirements into technical solutions.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with one or more BI visualization tools such as Power BI, Tableau, or QlikView.<br /><br />
+Responsibilities:<br /><br />
+BI Solution Development: Design, develop, and implement scalable BI solutions to extract, transform, and load data from various sources into data warehouses or data marts.<br />
+Data Modeling: Develop and maintain logical and physical data models to support business requirements and optimize query performance.<br />
+ETL Processes: Design, develop, and optimize Extract, Transform, Load (ETL) processes to ensure data integrity, accuracy, and timeliness.<br />
+Data Visualization: Create interactive and intuitive dashboards, reports, and data visualizations using BI tools such as Power BI, Tableau, or QlikView.<br /><br /><br /><br />
+Preferred Qualifications:<br /><br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master&rsquo;s degree in Computer Science, Information Systems, or a related field.<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certifications in BI technologies (e.g., Microsoft Certified: Data Analyst Associate, Tableau Desktop Certified Associate).<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with cloud-based BI platforms such as Azure BI, AWS Redshift, or Google Big Query.<br /><br /><br />
+Contract Duration: 6 to 12 months.<br /><br />
+Immediate &amp;amp; early joiners are only preferred who can start from next week onwards.<br /><br /><b>Budget</b>: $1,000
+<br /><b>Posted On</b>: May 15, 2024 12:42 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Business Intelligence,     ETL,     Oracle PLSQL,     Data Warehousing,     Microsoft Power BI,     Tableau,     Data Modeling    
+<br /><b>Skills</b>:        Business Intelligence,                     ETL,                     Oracle PLSQL,                     Data Warehousing,                     Microsoft Power BI,                     Tableau,                     Data Modeling            <br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/development-data-warehousing-amp-Oracle-analytics_%7E018813267ca33e8560?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 12:42:36 +0000</pubDate><guid>https://www.upwork.com/jobs/development-data-warehousing-amp-Oracle-analytics_%7E018813267ca33e8560?source=rss</guid></item><item><title><![CDATA[Senior BI Consultant - Upwork]]></title><link>https://www.upwork.com/jobs/Senior-Consultant_%7E019b35efad808bc0cd?source=rss</link><description><![CDATA[Job Description: Only candidates from Bangalore as this is Hybrid model (Work from Office)<br /><br />
+&middot; Strong SQL knowledge is necessary.<br /><br />
+&middot; Business Intelligence and Management Information experience<br /><br />
+&middot; Strong understanding of data warehousing, data models, dashboard development with applied experience on analyzing structured datasets<br /><br />
+&middot; Strong analytical skills with ability to organize, analyze and disseminate significant information with attention to detail and accuracy<br /><br />
+&middot; Data visualization, data presentation, Key Performance Metrics (KPI) and Key Risk Indicator (KRI) definition and reporting using Power BI &amp;amp; Alteryx<br /><br />
+&middot; Experience working in Agile teams that are geographically dispersed.<br /><br />
+&middot; Prior experience in UI/UX in product development will be an advantage<br /><br />
+&middot; Familiarity with the Unix and Windows operating systems, Python, ETL concepts<br /><br />
+Mandatory Skills:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alteryx, Power BI, SQL, Python, Data Warehousing, Data Modelling.<br /><br />
+Desirable Skills:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unix Scripting, Python, ETL Concepts<br /><br /><br /><b>Hourly Range</b>: $18.00-$22.00
+
+<br /><b>Posted On</b>: May 15, 2024 12:00 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Business Intelligence,     Microsoft Power BI,     SQL,     Data Modeling,     Data Analysis,     Data Visualization,     Python,     Alteryx, Inc.    
+<br /><b>Skills</b>:        Business Intelligence,                     Microsoft Power BI,                     SQL,                     Data Modeling,                     Data Analysis,                     Data Visualization,                     Python,                     Alteryx, Inc.            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Senior-Consultant_%7E019b35efad808bc0cd?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Job Description: Only candidates from Bangalore as this is Hybrid model (Work from Office)<br /><br />
+&middot; Strong SQL knowledge is necessary.<br /><br />
+&middot; Business Intelligence and Management Information experience<br /><br />
+&middot; Strong understanding of data warehousing, data models, dashboard development with applied experience on analyzing structured datasets<br /><br />
+&middot; Strong analytical skills with ability to organize, analyze and disseminate significant information with attention to detail and accuracy<br /><br />
+&middot; Data visualization, data presentation, Key Performance Metrics (KPI) and Key Risk Indicator (KRI) definition and reporting using Power BI &amp;amp; Alteryx<br /><br />
+&middot; Experience working in Agile teams that are geographically dispersed.<br /><br />
+&middot; Prior experience in UI/UX in product development will be an advantage<br /><br />
+&middot; Familiarity with the Unix and Windows operating systems, Python, ETL concepts<br /><br />
+Mandatory Skills:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alteryx, Power BI, SQL, Python, Data Warehousing, Data Modelling.<br /><br />
+Desirable Skills:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unix Scripting, Python, ETL Concepts<br /><br /><br /><b>Hourly Range</b>: $18.00-$22.00
+
+<br /><b>Posted On</b>: May 15, 2024 12:00 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Business Intelligence,     Microsoft Power BI,     SQL,     Data Modeling,     Data Analysis,     Data Visualization,     Python,     Alteryx, Inc.    
+<br /><b>Skills</b>:        Business Intelligence,                     Microsoft Power BI,                     SQL,                     Data Modeling,                     Data Analysis,                     Data Visualization,                     Python,                     Alteryx, Inc.            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Senior-Consultant_%7E019b35efad808bc0cd?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 12:00:01 +0000</pubDate><guid>https://www.upwork.com/jobs/Senior-Consultant_%7E019b35efad808bc0cd?source=rss</guid></item><item><title><![CDATA[Request for preliminary calculations for self-employment - Upwork]]></title><link>https://www.upwork.com/jobs/Request-for-preliminary-calculations-for-self-employment_%7E013fac5881b0bc5649?source=rss</link><description><![CDATA[Due to the need to contract a self-employed person in Egypt, I am interested in the issue of taxation for freelancers. <br />
+Would you be able to advise me on this issue, as well as make a sample calculation of monthly income, mandatory/non-mandatory taxes?<br />
+I would also like to clarify the cost of monthly support for income/tax calculations and other deductions.<br />
+I would like to get a consultation through an online meeting to be able to better explain my question, and to get this consultation as quickly as possible.<br /><br /><br /><b>Posted On</b>: May 15, 2024 11:49 UTC<br /><b>Category</b>: Financial Analysis &amp; Modeling<br /><b>Skills</b>:Microsoft Power BI,     Microsoft Excel,     Email Communication,     Administrative Support,     Business Management,     Marketing Analytics,     Sales Analytics,     Microsoft Excel PowerPivot,     Internet Marketing,     Market Research,     Financial Accounting,     Accounting,     Excel Formula,     English,     Bookkeeping    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Microsoft Excel,                     Email Communication,                     Administrative Support,                     Business Management,                     Marketing Analytics,                     Sales Analytics,                     Microsoft Excel PowerPivot,                     Internet Marketing,                     Market Research,                     Financial Accounting,                     Accounting,                     Excel Formula,                     English,                     Bookkeeping            <br /><b>Country</b>: Poland
+<br /><a href="https://www.upwork.com/jobs/Request-for-preliminary-calculations-for-self-employment_%7E013fac5881b0bc5649?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Due to the need to contract a self-employed person in Egypt, I am interested in the issue of taxation for freelancers. <br />
+Would you be able to advise me on this issue, as well as make a sample calculation of monthly income, mandatory/non-mandatory taxes?<br />
+I would also like to clarify the cost of monthly support for income/tax calculations and other deductions.<br />
+I would like to get a consultation through an online meeting to be able to better explain my question, and to get this consultation as quickly as possible.<br /><br /><br /><b>Posted On</b>: May 15, 2024 11:49 UTC<br /><b>Category</b>: Financial Analysis &amp; Modeling<br /><b>Skills</b>:Microsoft Power BI,     Microsoft Excel,     Email Communication,     Administrative Support,     Business Management,     Marketing Analytics,     Sales Analytics,     Microsoft Excel PowerPivot,     Internet Marketing,     Market Research,     Financial Accounting,     Accounting,     Excel Formula,     English,     Bookkeeping    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Microsoft Excel,                     Email Communication,                     Administrative Support,                     Business Management,                     Marketing Analytics,                     Sales Analytics,                     Microsoft Excel PowerPivot,                     Internet Marketing,                     Market Research,                     Financial Accounting,                     Accounting,                     Excel Formula,                     English,                     Bookkeeping            <br /><b>Country</b>: Poland
+<br /><a href="https://www.upwork.com/jobs/Request-for-preliminary-calculations-for-self-employment_%7E013fac5881b0bc5649?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 11:49:22 +0000</pubDate><guid>https://www.upwork.com/jobs/Request-for-preliminary-calculations-for-self-employment_%7E013fac5881b0bc5649?source=rss</guid></item><item><title><![CDATA[PowerBI Developer with Yardi Experience - Upwork]]></title><link>https://www.upwork.com/jobs/PowerBI-Developer-with-Yardi-Experience_%7E01d7c94bd808b32ed2?source=rss</link><description><![CDATA[We are looking for an expert PowerBI consultant/developer that can take a project from start to finish with a client. You will be client facing, so excellent communication and social skills are required. Also, we focus on real estate clients so prior experience with Yardi is required. Must be available for at least 4 hrs during ET business day. <br /><br /><b>Hourly Range</b>: $30.00-$60.00
+
+<br /><b>Posted On</b>: May 15, 2024 11:47 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Visualization,     Dashboard,     Yardi Software,     Data Modeling,     Business Intelligence,     Microsoft Power BI Data Visualization    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Visualization,                     Dashboard,                     Yardi Software,                     Data Modeling,                     Business Intelligence,                     Microsoft Power BI Data Visualization            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/PowerBI-Developer-with-Yardi-Experience_%7E01d7c94bd808b32ed2?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for an expert PowerBI consultant/developer that can take a project from start to finish with a client. You will be client facing, so excellent communication and social skills are required. Also, we focus on real estate clients so prior experience with Yardi is required. Must be available for at least 4 hrs during ET business day. <br /><br /><b>Hourly Range</b>: $30.00-$60.00
+
+<br /><b>Posted On</b>: May 15, 2024 11:47 UTC<br /><b>Category</b>: Data Visualization<br /><b>Skills</b>:Microsoft Power BI,     Data Visualization,     Dashboard,     Yardi Software,     Data Modeling,     Business Intelligence,     Microsoft Power BI Data Visualization    
+<br /><b>Skills</b>:        Microsoft Power BI,                     Data Visualization,                     Dashboard,                     Yardi Software,                     Data Modeling,                     Business Intelligence,                     Microsoft Power BI Data Visualization            <br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/PowerBI-Developer-with-Yardi-Experience_%7E01d7c94bd808b32ed2?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 11:47:56 +0000</pubDate><guid>https://www.upwork.com/jobs/PowerBI-Developer-with-Yardi-Experience_%7E01d7c94bd808b32ed2?source=rss</guid></item><item><title><![CDATA[Help with Data Analysis - Upwork]]></title><link>https://www.upwork.com/jobs/Help-with-Data-Analysis_%7E01927c7b7bbafbde23?source=rss</link><description><![CDATA[This gig is open for Data Analysts, Data Engineers, Data Scientists, or other specialists that can contribute to a successful Business Intelligence Department.<br /><br />
+Requirement: <br />
+1) Data Analysis - interpreting and visualizing data using Excel, Power BI, Python, SQL, etc. Develop data framework, establish KPIs, build dashboards, conduct data modelling and take all other necessary measures that require complex calculations and formulations. Manipulating raw data for operational departments, each department has its own data with unique Metrics and KPIs to be converted into visual dashboards.<br /><br />
+2) Data Engineering - Design and maintain data infrastructure using big data technologies like Hadoop, Spark, etc.<br /><br />
+3) Data Science - work on new ways to capture, store, manipulate and analyze that data. <br /><br /><b>Hourly Range</b>: $10.00-$80.00
+
+<br /><b>Posted On</b>: May 15, 2024 09:04 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Data Analysis Consultation,     Microsoft Excel,     Data Visualization,     Data Analysis,     Data Modeling,     Data Engineering,     Data Analytics,     Data Science,     Business Intelligence    
+<br /><b>Skills</b>:        Data Analysis Consultation,                     Microsoft Excel,                     Data Visualization,                     Data Analysis,                     Data Modeling,                     Data Engineering,                     Data Analytics,                     Data Science,                     Business Intelligence            <br /><b>Country</b>: United Arab Emirates
+<br /><a href="https://www.upwork.com/jobs/Help-with-Data-Analysis_%7E01927c7b7bbafbde23?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[This gig is open for Data Analysts, Data Engineers, Data Scientists, or other specialists that can contribute to a successful Business Intelligence Department.<br /><br />
+Requirement: <br />
+1) Data Analysis - interpreting and visualizing data using Excel, Power BI, Python, SQL, etc. Develop data framework, establish KPIs, build dashboards, conduct data modelling and take all other necessary measures that require complex calculations and formulations. Manipulating raw data for operational departments, each department has its own data with unique Metrics and KPIs to be converted into visual dashboards.<br /><br />
+2) Data Engineering - Design and maintain data infrastructure using big data technologies like Hadoop, Spark, etc.<br /><br />
+3) Data Science - work on new ways to capture, store, manipulate and analyze that data. <br /><br /><b>Hourly Range</b>: $10.00-$80.00
+
+<br /><b>Posted On</b>: May 15, 2024 09:04 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Data Analysis Consultation,     Microsoft Excel,     Data Visualization,     Data Analysis,     Data Modeling,     Data Engineering,     Data Analytics,     Data Science,     Business Intelligence    
+<br /><b>Skills</b>:        Data Analysis Consultation,                     Microsoft Excel,                     Data Visualization,                     Data Analysis,                     Data Modeling,                     Data Engineering,                     Data Analytics,                     Data Science,                     Business Intelligence            <br /><b>Country</b>: United Arab Emirates
+<br /><a href="https://www.upwork.com/jobs/Help-with-Data-Analysis_%7E01927c7b7bbafbde23?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 09:04:59 +0000</pubDate><guid>https://www.upwork.com/jobs/Help-with-Data-Analysis_%7E01927c7b7bbafbde23?source=rss</guid></item><item><title><![CDATA[Snowflake Permissions and Tableau Integration - Upwork]]></title><link>https://www.upwork.com/jobs/Snowflake-Permissions-and-Tableau-Integration_%7E010cd8bbad5a7d5eff?source=rss</link><description><![CDATA[We are seeking a skilled professional to assist us with setting up permissions and authentication in Snowflake and integrating Snowflake with Tableau. The goal is to allow users to connect to Snowflake from Tableau without having to manually log in to Snowflake within the Tableau interface. The ideal candidate should have expertise in both Snowflake and Tableau and be able to implement the necessary configurations and settings to enable seamless integration. <br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Required Skills:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;- Snowflake administration and configuration<br />
+&nbsp;&nbsp;&nbsp;&nbsp;- Tableau integration<br />
+&nbsp;&nbsp;&nbsp;&nbsp;- User permissions and authentication<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;If you are experienced in Snowflake and Tableau and have a solid understanding of permissions and authentication, we would love to hear from you. This is a great opportunity to work on an exciting project and contribute to our data analytics capabilities.<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Please include relevant examples of your previous work with Snowflake and Tableau in your proposal.<br /><br /><br /><b>Posted On</b>: May 15, 2024 10:47 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Tableau,     SQL,     Python,     Data Visualization,     Business Intelligence    
+<br /><b>Skills</b>:        Tableau,                     SQL,                     Python,                     Data Visualization,                     Business Intelligence            <br /><b>Country</b>: Israel
+<br /><a href="https://www.upwork.com/jobs/Snowflake-Permissions-and-Tableau-Integration_%7E010cd8bbad5a7d5eff?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking a skilled professional to assist us with setting up permissions and authentication in Snowflake and integrating Snowflake with Tableau. The goal is to allow users to connect to Snowflake from Tableau without having to manually log in to Snowflake within the Tableau interface. The ideal candidate should have expertise in both Snowflake and Tableau and be able to implement the necessary configurations and settings to enable seamless integration. <br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Required Skills:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;- Snowflake administration and configuration<br />
+&nbsp;&nbsp;&nbsp;&nbsp;- Tableau integration<br />
+&nbsp;&nbsp;&nbsp;&nbsp;- User permissions and authentication<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;If you are experienced in Snowflake and Tableau and have a solid understanding of permissions and authentication, we would love to hear from you. This is a great opportunity to work on an exciting project and contribute to our data analytics capabilities.<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Please include relevant examples of your previous work with Snowflake and Tableau in your proposal.<br /><br /><br /><b>Posted On</b>: May 15, 2024 10:47 UTC<br /><b>Category</b>: Data Analytics<br /><b>Skills</b>:Tableau,     SQL,     Python,     Data Visualization,     Business Intelligence    
+<br /><b>Skills</b>:        Tableau,                     SQL,                     Python,                     Data Visualization,                     Business Intelligence            <br /><b>Country</b>: Israel
+<br /><a href="https://www.upwork.com/jobs/Snowflake-Permissions-and-Tableau-Integration_%7E010cd8bbad5a7d5eff?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 15 May 2024 10:47:00 +0000</pubDate><guid>https://www.upwork.com/jobs/Snowflake-Permissions-and-Tableau-Integration_%7E010cd8bbad5a7d5eff?source=rss</guid></item></channel></rss>
+

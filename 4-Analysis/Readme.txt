@@ -1,0 +1,1 @@
+This folder contain all code/scripts used to analyze the data
