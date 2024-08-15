@@ -18,7 +18,7 @@ save_directory = os.path.join(subpath,dubpath)
 rss_url = "https://www.upwork.com/ab/feed/jobs/rss?paging=0-10&q=Power%20Bi&sort=recency&api_params=1&securityToken=d17308910f66b74d222ca66c907efa56c942739d41db7bba3da3ca225a9584b2edcab156ed12fcd81a0f94e952ea29d611248991196927c716632e2284293c57&userUid=1729067928257851392&orgUid=1729067928257851393"
 
 
-#save_directory = r"C:\Users\saadl\OneDrive\Bureau\RSS Files"
+#save_directory =
 os.makedirs(save_directory, exist_ok=True)
 
 # Current date in YYYYMMDD format
