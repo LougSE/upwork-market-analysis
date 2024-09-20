@@ -1,0 +1,6 @@
+POST http://localhost:11434/api/generate
+
+{
+  "model": "nuextract",
+  "prompt":"Why is the sky blue?"
+}
