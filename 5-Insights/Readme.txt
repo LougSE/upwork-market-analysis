@@ -1,1 +1,0 @@
-This folder contains different insights made from the analysis

@@ -1,1 +1,0 @@
-This folder contain all different reports / PBI files

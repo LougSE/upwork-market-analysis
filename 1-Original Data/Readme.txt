@@ -1,1 +1,0 @@
-This folder contains all original data used in this project
