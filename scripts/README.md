@@ -33,13 +33,6 @@ This folder contains all automation and data collection scripts used in the proj
 
 ## Configuration
 
-- Environment variables required:
+- Environment variables used:
   - `DataScienceProjectsPath`: Base path for project
   - `OpenAIKeyLougse1`: OpenAI API key (for GPT processing)
-
-## Error Handling
-
-All scripts include:
-- Basic error logging
-- Retry mechanisms for API calls
-- Data validation checks

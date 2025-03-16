@@ -6,3 +6,6 @@
 
 # Ignore First save script
 save_rss_feed.py
+
+# Ignore deprecated market_analysis_playground.ipynb
+market_analysis_playground.ipynb
