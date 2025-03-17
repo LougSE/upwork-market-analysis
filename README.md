@@ -1,10 +1,19 @@
 # Upwork Market Data Analysis for Optimized Profile
 
+## Important Notice
+**March 2025 Update**: Upwork has discontinued their RSS feed service. This project contains historical data collected up until the service termination. While the analysis and insights remain valuable, future data collection will require alternative methods.
+
 ## Project Overview
 This data-driven project analyzes Upwork job listings to understand market trends in the data analysis and visualization domain, with a specific focus on PowerBI opportunities. Using automated data collection and analysis techniques, the project provides insights into the current demand, rates, and required skills for PowerBI-related jobs on Upwork.
 
 ## Background
 The project originated from observing the high volume of PowerBI-related jobs on Upwork. By systematically collecting and analyzing this data, we can better understand the market dynamics, including rates, geographical distribution, and required skills in the PowerBI space.
+
+## Project Status
+- **Data Collection**: Completed (RSS feed discontinued by Upwork)
+- **Final Dataset**: March 2025
+- **Analysis Status**: Complete and documented
+- **Future Plans**: Exploring alternative data collection methods
 
 ## Objectives
 - Analyze Upwork job listings to identify market trends and demands
@@ -14,9 +23,10 @@ The project originated from observing the high volume of PowerBI-related jobs on
 ## Project Phases
 
 ### 1. Data Collection
-- **Frequency**: RSS feed job listings are collected every two days.
-- **Automation**: A Python script automates the download and conversion of RSS feeds into JSON format.
-- **Storage**: JSON files are organized into a structured folder system for ease of use.
+- **Historical Method**: RSS feed job listings were collected every two days until March 2025
+- **Current Status**: RSS feed service discontinued by Upwork
+- **Data Preservation**: Final dataset preserved and documented
+- **Future Collection**: Alternative methods under investigation
 
 ### 2. Data Transformation (ETL Process)
 - **Extraction**: Job data is extracted using natural language processing (NLP) and tools like ChatGPT API, Kor, and LangChain.
@@ -60,9 +70,9 @@ The project originated from observing the high volume of PowerBI-related jobs on
 - **Rate Analysis**: Clear view of market rates across different regions
 
 ## Current Dataset Statistics
-- **Time Range**: May 13, 2024 to August 7, 2024
+- **Time Range**: May 13, 2024 to March 2025 (Final collection)
 - **Total Job Listings**: 1,110 unique listings
-- **Collection Frequency**: Every 2 days
+- **Collection Frequency**: Every 2 days (until RSS discontinuation)
 - **Geographic Coverage**: Global (50+ countries)
 - **Primary Focus**: Data Visualization and Analytics roles
 
@@ -150,9 +160,10 @@ upwork-market-analysis/
 
 ## Future Enhancements
 1. **Data Collection**:
-   - Expand to additional job categories
-   - Implement real-time data collection
-   - Add more granular skill extraction
+   - Investigate alternative data collection methods
+   - Explore Upwork API integration possibilities
+   - Consider web scraping solutions
+   - Evaluate third-party data providers
 
 2. **Analysis Capabilities**:
    - Market trend analysis
@@ -162,8 +173,9 @@ upwork-market-analysis/
 
 3. **Visualization**:
    - Interactive PowerBI dashboards
-   - Real-time market trends
+   - Historical trend analysis
    - Skill demand patterns
+   - Rate distribution insights
 
 ## Project Goals and Metrics
 1. **Primary Objectives**:
@@ -179,4 +191,7 @@ upwork-market-analysis/
    - Trend identification accuracy
 
 ## Conclusion
-This project provides a comprehensive framework for understanding the PowerBI job market on Upwork. By combining automated data collection with advanced analysis techniques, we create actionable insights into market demands, rates, and skill requirements in the PowerBI space.
+This project provides a comprehensive analysis of the PowerBI job market on Upwork based on historical data collected through March 2025. While the RSS feed service has been discontinued, the insights and analysis methodology remain valuable for understanding market dynamics. Future iterations of this project will explore alternative data collection methods to continue providing valuable market insights.
+
+---
+*Last Updated: March 2025*

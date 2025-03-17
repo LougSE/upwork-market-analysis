@@ -73,6 +73,112 @@ python process_skills.py
 - Handles missing or malformed skills data
 - Provides clear error messages for common issues
 
+## PowerBI Implementation
+
+### Data Model Design
+The data model follows a star schema design for optimal performance and usability:
+
+#### 1. Fact Table (Job Postings)
+- **Key Transformations:**
+  - Created unique job ID for each posting
+  - Split `posted_date` into:
+    - `posted_date` (Date format)
+    - `posted_time` (Time format)
+  - Calculated `average_rate` from `min_rate` and `max_rate`
+  - Removed one-hot encoded skill columns
+  - Added relationship key to Skills dimension table
+
+#### 2. Dimension Table (Skills)
+- **Structure:**
+  - `skill_id` (unique identifier)
+  - `skill_name` (normalized skill name)
+  - `job_id` (relationship to fact table)
+- **Created through:**
+  - Unpivoting one-hot encoded skill columns
+  - Filtering to keep only rows where skill = 1
+  - Generating unique skill IDs
+
+### Data Transformation Steps in PowerBI
+
+1. **Initial Load**
+   ```powerquery
+   let
+       Source = Csv.Document("processed_data_YYYYMMDD.csv"),
+       #"Promoted Headers" = Table.PromoteHeaders(Source)
+   in
+       #"Promoted Headers"
+   ```
+
+2. **DateTime Processing**
+   ```powerquery
+   #"Split DateTime" = Table.AddColumn(
+       Source, 
+       "posted_time",
+       each Time.From([posted_date])
+   )
+   ```
+
+3. **Rate Calculations**
+   ```powerquery
+   #"Add Average Rate" = Table.AddColumn(
+       Source,
+       "average_rate",
+       each ([min_rate] + [max_rate]) / 2
+   )
+   ```
+
+4. **Skills Unpivoting**
+   ```powerquery
+   #"Unpivoted Skills" = Table.UnpivotOtherColumns(
+       Source,
+       {"job_id", "title", "link", "country", ...},
+       "skill_name",
+       "has_skill"
+   )
+   ```
+
+### Visual Design
+
+#### Brand Identity Integration
+- Created custom visuals using Upwork's brand guidelines:
+  - Color palette: Upwork green (#6FDA44), white (#FFFFFF), dark gray (#222)
+  - Logo integration in headers and backgrounds
+  - Custom pictograms for KPIs and metrics
+
+#### Dashboard Components
+1. **Headers & Backgrounds**
+   - Custom-designed in Canva.com
+   - Incorporates Upwork brand elements
+   - Professional, clean aesthetic
+
+2. **Visual Elements**
+   - Custom pictograms for key metrics
+   - Consistent color scheme throughout
+   - Branded data visualization styles
+
+### Best Practices Implemented
+
+1. **Performance Optimization**
+   - Star schema for efficient querying
+   - Appropriate data type settings
+   - Optimized relationship cardinality
+
+2. **User Experience**
+   - Consistent branding across pages
+   - Intuitive navigation layout
+   - Clear visual hierarchy
+
+3. **Maintainability**
+   - Documented transformation steps
+   - Modular design pattern
+   - Clear naming conventions
+
+### Future Enhancements
+1. Implement incremental refresh
+2. Add custom tooltips
+3. Create drill-through reports
+4. Add advanced DAX measures
+
 ## Best Practices
 1. **Data Validation**
    - Check input data quality

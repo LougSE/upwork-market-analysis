@@ -1,5 +1,8 @@
 # Building an Upwork PowerBI Market Analysis System
 
+## Important Update: RSS Feed Discontinuation
+As of March 2025, Upwork has discontinued support for their RSS feed service. Our last successful data collection occurred just before this change. This development marks a significant turning point for our project, as we'll need to explore alternative data collection methods for future market analysis.
+
 ## The Beginning: Understanding the Problem
 
 The project started with an observation of the high volume of PowerBI-related jobs on Upwork. To better understand this market segment, I developed a systematic approach to collecting and analyzing job listing data.
@@ -53,6 +56,28 @@ Job listings often contain:
 - Varying levels of detail
 - Multiple sections with related information
 
+### Challenge 3: Data Source Sustainability
+The discontinuation of Upwork's RSS feed service in March 2025 highlighted an important lesson about building systems that rely on external data sources:
+
+1. **Impact**
+   - Loss of automated data collection capability
+   - Final dataset captured before service termination
+   - Need to pivot data collection strategy
+
+2. **Lessons Learned**
+   - Importance of data source diversification
+   - Need for adaptable collection methods
+   - Value of maintaining historical data
+   - Significance of documenting data collection timeline
+
+3. **Future Considerations**
+   - Explore alternative data collection methods
+   - Consider API-based solutions
+   - Investigate web scraping options
+   - Plan for data source transitions
+
+This challenge reinforces the importance of building flexible systems that can adapt to changes in data availability and source reliability.
+
 ## Lessons Learned
 
 1. **Cost vs. Quality Trade-offs**
@@ -104,6 +129,52 @@ A significant breakthrough came when we discovered that the job listings contain
    - Potential for hybrid approaches where needed
 
 This evolution demonstrates the importance of thoroughly understanding your data structure before applying complex solutions. Sometimes, simpler and more targeted approaches can yield better results than sophisticated AI solutions.
+
+## PowerBI Implementation Journey
+
+### Data Model Evolution
+Our journey into PowerBI implementation revealed the importance of proper data modeling for effective analysis. The initial one-hot encoded format, while useful for basic analysis, needed transformation for optimal PowerBI performance.
+
+1. **Initial Challenges**
+   - Large number of columns due to one-hot encoding
+   - Inefficient data structure for visualization
+   - Complex filtering requirements
+   - Performance concerns with direct use
+
+2. **Star Schema Solution**
+   - Transformed data into fact and dimension tables
+   - Created Job Postings fact table
+   - Developed Skills dimension table
+   - Established clear relationships
+
+3. **Data Enhancement**
+   - Split datetime into separate date and time
+   - Created average rate calculations
+   - Normalized skill names
+   - Added unique identifiers
+
+### Visual Design Process
+
+1. **Brand Integration**
+   We prioritized creating a professional, branded experience:
+   - Utilized Upwork's brand colors
+   - Created custom backgrounds in Canva.com
+   - Designed branded pictograms
+   - Maintained consistent visual language
+
+2. **Dashboard Structure**
+   - Organized metrics logically
+   - Created clear visual hierarchy
+   - Implemented intuitive navigation
+   - Optimized for user experience
+
+3. **Performance Optimization**
+   - Implemented efficient data model
+   - Optimized relationships
+   - Created appropriate aggregations
+   - Managed data refresh cycles
+
+This phase of the project demonstrates how proper data modeling and visual design can transform raw data into actionable insights while maintaining a professional, branded appearance.
 
 ## Skills Processing and Analysis
 
